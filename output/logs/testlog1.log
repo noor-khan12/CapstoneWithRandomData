@@ -1,0 +1,125 @@
+2021-11-04 18:59:33,797 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 18:59:33,873 [main] INFO logger_File - user clicked on My Account
+2021-11-04 18:59:36,823 [main] INFO logger_File - user clicked on Login option
+2021-11-04 18:59:36,986 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 18:59:41,160 [main] INFO logger_File - user clicked on the login button
+2021-11-04 18:59:41,214 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 18:59:45,105 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 18:59:45,154 [main] INFO logger_File - user clicked on My Account
+2021-11-04 18:59:45,885 [main] INFO logger_File - user clicked on Login option
+2021-11-04 18:59:46,043 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 18:59:47,679 [main] INFO logger_File - user clicked on the login button
+2021-11-04 18:59:47,726 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 18:59:50,380 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 18:59:50,430 [main] INFO logger_File - user clicked on My Account
+2021-11-04 18:59:50,826 [main] INFO logger_File - user clicked on Login option
+2021-11-04 18:59:50,986 [main] INFO logger_File - user entered userName: hawks@tekschool.us and Passwod: hawks
+2021-11-04 18:59:51,409 [main] INFO logger_File - user clicked on the login button
+2021-11-04 18:59:51,461 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 18:59:54,187 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 18:59:54,243 [main] INFO logger_File - user clicked on My Account
+2021-11-04 18:59:54,586 [main] INFO logger_File - user clicked on Login option
+2021-11-04 18:59:54,756 [main] INFO logger_File - user entered userName: falcons@tekschool.us and Passwod: falcons
+2021-11-04 18:59:55,205 [main] INFO logger_File - user clicked on the login button
+2021-11-04 18:59:55,246 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:05:29,141 [main] INFO logger_File - Scenario Retail website login test Started
+2021-11-04 19:05:34,140 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:05:34,215 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:05:36,306 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:05:36,467 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 19:05:38,134 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:05:38,198 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:05:38,459 [main] INFO logger_File - Scenario Retail website login test PASSED
+2021-11-04 19:05:38,496 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-04 19:05:41,505 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:05:41,566 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:05:42,296 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:05:42,458 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 19:05:43,527 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:05:43,578 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:05:43,870 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-04 19:05:43,880 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-04 19:05:46,874 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:05:46,932 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:05:48,591 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:05:48,733 [main] INFO logger_File - user entered userName: hawks@tekschool.us and Passwod: hawks
+2021-11-04 19:05:50,580 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:05:50,628 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:05:50,892 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-04 19:05:50,904 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-04 19:05:54,370 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:05:54,425 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:05:55,376 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:05:55,523 [main] INFO logger_File - user entered userName: falcons@tekschool.us and Passwod: falcons
+2021-11-04 19:05:56,848 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:05:56,889 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:05:57,135 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-04 19:24:17,021 [main] INFO logger_File - Scenario Retail website login test Started
+2021-11-04 19:24:20,374 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:24:21,148 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:24:22,229 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:24:22,861 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 19:24:23,729 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:24:23,795 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:24:24,451 [main] INFO logger_File - Scenario Retail website login test PASSED
+2021-11-04 19:27:58,995 [main] INFO logger_File - Scenario Retail website login test Started
+2021-11-04 19:28:04,125 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-04 19:28:04,891 [main] INFO logger_File - user clicked on My Account
+2021-11-04 19:28:06,531 [main] INFO logger_File - user clicked on Login option
+2021-11-04 19:28:07,129 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-04 19:28:08,462 [main] INFO logger_File - user clicked on the login button
+2021-11-04 19:28:08,527 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-04 19:28:09,244 [main] INFO logger_File - Scenario Retail website login test PASSED
+2021-11-05 01:07:52,734 [main] INFO logger_File - Scenario Retail website login test Started
+2021-11-05 01:07:56,632 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-05 01:07:57,453 [main] INFO logger_File - user clicked on My Account
+2021-11-05 01:07:58,325 [main] INFO logger_File - user clicked on Login option
+2021-11-05 01:07:58,903 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-05 01:07:59,791 [main] INFO logger_File - user clicked on the login button
+2021-11-05 01:07:59,852 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-05 01:08:00,556 [main] INFO logger_File - Scenario Retail website login test PASSED
+2021-11-05 01:08:00,568 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-05 01:08:02,811 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-05 01:08:03,606 [main] INFO logger_File - user clicked on My Account
+2021-11-05 01:08:04,457 [main] INFO logger_File - user clicked on Login option
+2021-11-05 01:08:04,989 [main] INFO logger_File - user entered userName: eagles@tekschool.us and Passwod: eagles
+2021-11-05 01:08:05,753 [main] INFO logger_File - user clicked on the login button
+2021-11-05 01:08:05,794 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-05 01:08:06,465 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-05 01:08:06,476 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-05 01:08:08,914 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-05 01:08:09,685 [main] INFO logger_File - user clicked on My Account
+2021-11-05 01:08:10,534 [main] INFO logger_File - user clicked on Login option
+2021-11-05 01:08:11,102 [main] INFO logger_File - user entered userName: hawks@tekschool.us and Passwod: hawks
+2021-11-05 01:08:12,790 [main] INFO logger_File - user clicked on the login button
+2021-11-05 01:08:12,830 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-05 01:08:13,475 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-05 01:08:13,525 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-05 01:08:15,949 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-05 01:08:16,691 [main] INFO logger_File - user clicked on My Account
+2021-11-05 01:08:17,989 [main] INFO logger_File - user clicked on Login option
+2021-11-05 01:08:18,551 [main] INFO logger_File - user entered userName: falcons@tekschool.us and Passwod: falcons
+2021-11-05 01:08:19,756 [main] INFO logger_File - user clicked on the login button
+2021-11-05 01:08:19,798 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-05 01:08:20,481 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts PASSED
+2021-11-05 01:36:15,706 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-11-05 01:36:18,532 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-05 01:36:19,375 [main] INFO logger_File - user clicked on My Account
+2021-11-05 01:36:20,298 [main] INFO logger_File - Scenario Create new user account in Test Environment UNDEFINED
+2021-11-09 23:47:22,947 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-11-09 23:47:28,617 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-09 23:47:29,310 [main] INFO logger_File - user clicked on My Account
+2021-11-09 23:47:30,716 [main] INFO logger_File - User clicked on register button
+2021-11-09 23:47:31,839 [main] INFO logger_File - user entered personal information
+2021-11-09 23:47:32,348 [main] INFO logger_File - user clicked on privacy policy
+2021-11-09 23:47:33,300 [main] INFO logger_File - user clicked on continue button
+2021-11-09 23:48:03,923 [main] INFO logger_File - Scenario Create new user account in Test Environment FAILED
+2021-11-09 23:48:15,559 [main] INFO logger_File - Scenario Create new user account in Test Environment Started
+2021-11-09 23:48:19,226 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-09 23:48:20,099 [main] INFO logger_File - user clicked on My Account
+2021-11-09 23:48:21,356 [main] INFO logger_File - User clicked on register button
+2021-11-09 23:48:22,226 [main] INFO logger_File - user entered personal information
+2021-11-09 23:48:22,692 [main] INFO logger_File - user clicked on privacy policy
+2021-11-09 23:48:23,532 [main] INFO logger_File - user clicked on continue button
+2021-11-09 23:48:24,010 [main] INFO logger_File - account was created successfully
+2021-11-09 23:48:25,483 [main] INFO logger_File - Scenario Create new user account in Test Environment PASSED
