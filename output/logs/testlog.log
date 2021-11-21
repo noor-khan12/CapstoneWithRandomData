@@ -123,3 +123,796 @@
 2021-11-09 23:48:23,532 - logger_File -INFO - user clicked on continue button
 2021-11-09 23:48:24,010 - logger_File -INFO - account was created successfully
 2021-11-09 23:48:25,483 - logger_File -INFO - Scenario Create new user account in Test Environment PASSED
+2021-11-16 00:05:12,973 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 00:05:24,052 - logger_File -INFO - Scenario User verify currency values change UNDEFINED
+2021-11-16 01:24:00,198 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 01:24:06,340 - logger_File -INFO - Scenario User verify currency values change FAILED
+2021-11-16 01:27:21,608 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 01:27:29,963 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-16 01:27:30,761 - logger_File -INFO - User click on Currency Button
+2021-11-16 01:27:35,455 - logger_File -INFO - User choose Euro from Dropdown
+2021-11-16 01:27:36,227 - logger_File -INFO - Currency value has changed to Euro
+2021-11-16 01:27:37,042 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-16 01:37:10,649 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 01:37:22,074 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-16 01:37:22,848 - logger_File -INFO - User click on Currency Button
+2021-11-16 01:37:29,706 - logger_File -INFO - User choose Euro from Dropdown
+2021-11-16 01:37:30,670 - logger_File -INFO - Scenario User verify currency values change FAILED
+2021-11-16 01:38:24,000 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 01:38:30,376 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-16 01:38:31,077 - logger_File -INFO - User click on Currency Button
+2021-11-16 01:38:34,995 - logger_File -INFO - User choose Euro from Dropdown
+2021-11-16 01:38:35,771 - logger_File -INFO - Currency value has changed to Euro
+2021-11-16 01:38:36,525 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-16 22:16:04,601 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 22:16:11,753 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-16 22:16:12,546 - logger_File -INFO - User click on Currency Button
+2021-11-16 22:16:15,287 - logger_File -INFO - User choose Euro from Dropdown
+2021-11-16 22:16:16,377 - logger_File -INFO - Currency value has changed to Euro
+2021-11-16 22:16:17,934 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-16 22:28:54,717 - logger_File -INFO - Scenario User verify currency values change Started
+2021-11-16 22:28:58,419 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-16 22:28:59,129 - logger_File -INFO - User click on Currency Button
+2021-11-16 22:29:00,233 - logger_File -INFO - User choose Euro from Dropdown
+2021-11-16 22:29:00,988 - logger_File -INFO - Currency value has changed to Euro
+2021-11-16 22:29:01,971 - logger_File -INFO - Scenario User verify currency values change PASSED
+2021-11-17 15:17:36,405 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-17 15:17:44,705 - logger_File -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2021-11-17 15:43:14,902 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-17 15:43:22,313 - logger_File -INFO - Scenario User verify all items are present in Desktops tab FAILED
+2021-11-17 15:46:14,551 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-17 15:46:23,486 - logger_File -INFO - User is on Desktops Page, actual page title equals the expected page title
+2021-11-17 15:46:24,152 - logger_File -INFO - User clicked on Desktops tab
+2021-11-17 15:46:28,689 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-17 15:50:33,320 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-17 15:50:39,473 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-17 15:50:40,132 - logger_File -INFO - User clicked on Desktops tab
+2021-11-17 15:50:43,238 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-17 15:50:43,291 - logger_File -INFO - All items are present in Desktops page
+2021-11-17 15:50:43,958 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-17 15:58:58,648 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-11-17 15:59:05,100 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-17 15:59:05,752 - logger_File -INFO - User clicked on Desktops tab
+2021-11-17 15:59:08,387 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-17 15:59:08,448 - logger_File -INFO - All items are present in Desktops page
+2021-11-17 15:59:09,059 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-18 02:14:14,255 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:14:20,427 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:14:21,105 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:14:22,527 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:14:22,870 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2021-11-18 02:25:58,289 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:26:01,184 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:26:01,939 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:26:02,691 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:26:03,053 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 02:28:18,304 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:28:21,768 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:28:22,407 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:28:23,623 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:28:54,012 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 02:30:19,931 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:30:23,500 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:30:24,182 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:30:24,874 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:30:24,922 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-18 02:30:27,516 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2021-11-18 02:31:53,841 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:31:57,092 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:31:57,753 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:31:58,408 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:31:58,463 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-18 02:32:00,670 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 02:37:08,734 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 02:37:13,174 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 02:37:13,811 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 02:37:15,269 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 02:37:15,316 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-18 02:37:18,758 - logger_File -INFO - User selected quantity
+2021-11-18 02:37:19,294 - logger_File -INFO - User clicked on the Blue Add to Cart Button!
+2021-11-18 02:37:20,848 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 19:49:58,942 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 19:50:10,441 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 19:50:11,341 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 19:50:15,902 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 19:50:15,955 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-18 19:50:21,667 - logger_File -INFO - User selected quantity
+2021-11-18 19:50:22,359 - logger_File -INFO - User clicked on the Blue Add to Cart Button!
+2021-11-18 19:50:25,764 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 23:57:46,836 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 23:57:58,415 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 23:57:59,186 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 23:58:04,097 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 23:58:04,147 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-18 23:58:10,725 - logger_File -INFO - User selected quantity
+2021-11-18 23:58:11,311 - logger_File -INFO - User clicked on the Blue Add to Cart Button!
+2021-11-18 23:58:13,332 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-18 23:59:45,909 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-18 23:59:54,275 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-18 23:59:54,982 - logger_File -INFO - User clicked on Desktops tab
+2021-11-18 23:59:58,575 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-18 23:59:58,642 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-19 00:00:02,576 - logger_File -INFO - User selected quantity
+2021-11-19 00:00:03,159 - logger_File -INFO - User clicked on the Blue Add to Cart Button!
+2021-11-19 00:00:06,135 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2021-11-19 00:12:31,954 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-19 00:12:44,620 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 00:12:45,914 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 00:12:50,241 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 00:12:50,340 - logger_File -INFO - User Added HP LP3065 to the Cart!
+2021-11-19 00:12:55,638 - logger_File -INFO - User selected quantity
+2021-11-19 00:12:56,392 - logger_File -INFO - User clicked on the Blue Add to Cart Button!
+2021-11-19 00:12:58,254 - logger_File -INFO - HP LP is successfully added to the cart
+2021-11-19 00:12:59,665 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-19 00:52:22,682 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 00:52:32,446 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 00:52:33,123 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 00:52:39,288 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 00:52:39,555 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-19 00:54:59,811 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 00:55:12,196 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 00:55:12,874 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 00:55:19,288 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 00:55:19,603 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-19 01:14:41,229 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:14:46,797 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:14:47,543 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:14:49,993 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:14:50,040 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:14:53,190 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:14:53,712 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:14:54,499 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart AMBIGUOUS
+2021-11-19 01:15:52,549 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:15:58,718 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:15:59,514 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:16:03,430 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:16:03,479 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:16:09,044 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:16:09,559 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:16:10,061 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:16:11,947 - logger_File -INFO - Success message displayed for Canon purchase
+2021-11-19 01:16:12,801 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-19 01:23:54,600 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:24:05,860 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:24:06,654 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:24:12,746 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:24:12,791 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:24:19,053 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:24:19,600 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:24:20,093 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:24:22,836 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-19 01:24:59,146 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:25:04,737 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:25:05,435 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:25:08,453 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:25:08,501 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:25:11,833 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:25:12,364 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:25:12,838 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:25:13,810 - logger_File -INFO - Success message displayed for Canon purchase
+2021-11-19 01:25:14,654 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-19 01:29:27,242 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:29:34,409 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:29:35,105 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:29:39,973 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:29:40,029 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:29:45,386 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:29:45,927 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:29:46,421 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:29:49,279 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-19 01:31:06,127 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:31:20,032 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:31:20,712 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:31:26,477 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:31:26,525 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:31:32,484 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:31:33,040 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:31:33,508 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:31:36,378 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-19 01:32:34,511 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-19 01:32:41,699 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 01:32:42,429 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 01:32:45,330 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 01:32:45,386 - logger_File -INFO - User added Canon EOS 5D to the Cart
+2021-11-19 01:32:49,552 - logger_File -INFO - User chose 'Red' Color from drop down menu
+2021-11-19 01:32:50,073 - logger_File -INFO - Canon purchase quantity is 1
+2021-11-19 01:32:50,568 - logger_File -INFO - User added Canon to cart and clicked on Add to Cart button
+2021-11-19 01:32:52,296 - logger_File -INFO - Success message displayed for Canon purchase
+2021-11-19 01:32:54,239 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-19 02:31:36,550 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-19 02:31:48,878 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 02:31:49,673 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 02:31:55,469 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 02:31:55,733 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-19 03:06:34,017 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-19 03:06:48,166 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 03:06:49,040 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 03:06:54,890 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 03:06:59,466 - logger_File -INFO - User Clicked on Canon Item
+2021-11-19 03:07:00,068 - logger_File -INFO - User clicked on write review link
+2021-11-19 03:07:31,154 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-19 03:09:34,198 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-19 03:09:45,971 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 03:09:46,685 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 03:09:57,945 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 03:10:06,009 - logger_File -INFO - User Clicked on Canon Item
+2021-11-19 03:10:06,617 - logger_File -INFO - User clicked on write review link
+2021-11-19 03:10:07,397 - logger_File -INFO - User gave a bad review to the product one star!
+2021-11-19 03:10:08,197 - logger_File -INFO - User clicked on review continue button
+2021-11-19 03:10:09,783 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-19 03:13:47,371 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-19 03:14:00,683 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 03:14:01,407 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 03:14:10,015 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 03:14:14,737 - logger_File -INFO - User Clicked on Canon Item
+2021-11-19 03:14:15,307 - logger_File -INFO - User clicked on write review link
+2021-11-19 03:14:16,106 - logger_File -INFO - User gave a bad review to the product one star!
+2021-11-19 03:14:16,828 - logger_File -INFO - User clicked on review continue button
+2021-11-19 03:14:17,707 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-19 03:15:28,751 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-19 03:15:42,893 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-19 03:15:43,642 - logger_File -INFO - User clicked on Desktops tab
+2021-11-19 03:15:52,583 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-19 03:15:59,738 - logger_File -INFO - User Clicked on Canon Item
+2021-11-19 03:16:00,326 - logger_File -INFO - User clicked on write review link
+2021-11-19 03:16:01,109 - logger_File -INFO - User gave a bad review to the product one star!
+2021-11-19 03:16:01,902 - logger_File -INFO - User clicked on review continue button
+2021-11-19 03:16:02,761 - logger_File -INFO - Review Successfully submitted
+2021-11-19 03:16:03,418 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-20 00:17:44,606 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-20 00:17:56,611 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-20 00:17:57,875 - logger_File -INFO - User clicked on Desktops tab
+2021-11-20 00:18:02,455 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-20 00:18:08,371 - logger_File -INFO - User Clicked on Canon Item
+2021-11-20 00:18:08,954 - logger_File -INFO - User clicked on write review link
+2021-11-20 00:18:09,766 - logger_File -INFO - User gave a bad review to the product one star!
+2021-11-20 00:18:10,224 - logger_File -INFO - User clicked on review continue button
+2021-11-20 00:18:10,660 - logger_File -INFO - Review Successfully submitted
+2021-11-20 00:18:15,229 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-20 00:21:07,645 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-20 00:21:19,578 - logger_File -INFO - User is on retail website, actual page title equals the expected page title
+2021-11-20 00:21:20,276 - logger_File -INFO - User clicked on Desktops tab
+2021-11-20 00:21:26,955 - logger_File -INFO - User clicked on Show All Desktops
+2021-11-20 00:21:33,098 - logger_File -INFO - User Clicked on Canon Item
+2021-11-20 00:21:33,694 - logger_File -INFO - User clicked on write review link
+2021-11-20 00:21:34,482 - logger_File -INFO - User gave a bad review to the product one star!
+2021-11-20 00:21:34,941 - logger_File -INFO - User clicked on review continue button
+2021-11-20 00:21:35,949 - logger_File -INFO - Review Successfully submitted
+2021-11-20 00:21:36,551 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-20 00:47:08,219 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 00:47:14,946 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-20 00:47:15,843 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:17:11,884 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:17:18,457 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:32:43,535 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:32:51,516 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:32:52,332 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:32:55,666 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:32:58,739 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:32:59,267 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:33:00,021 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:33:00,902 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2021-11-20 01:34:45,502 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:34:52,616 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:34:53,386 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:35:00,084 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:35:08,301 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:35:08,843 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:35:11,299 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:35:12,065 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:37:30,968 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:37:41,188 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:37:41,960 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:37:49,016 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:37:56,329 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:37:56,896 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:38:02,380 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:38:03,149 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:43:08,885 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:43:14,120 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:43:14,864 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:43:18,734 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:43:22,322 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:43:22,877 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:43:24,052 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:43:24,903 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:47:46,084 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:47:53,701 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:47:54,505 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:47:57,990 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:48:02,085 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:48:02,604 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:48:04,352 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:48:05,192 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:50:37,990 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:50:50,444 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:50:51,219 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:50:55,864 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:51:00,042 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:51:00,593 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:51:02,606 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:51:03,412 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:53:10,141 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:53:15,399 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:53:16,161 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:53:19,650 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:53:23,362 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:53:23,935 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:53:24,977 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 01:53:25,765 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2021-11-20 01:56:33,447 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:56:41,121 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:56:41,889 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:56:45,023 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:56:48,527 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:56:49,063 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:56:49,789 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:57:09,206 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:57:13,934 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:57:14,651 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:57:19,281 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:57:22,811 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:57:23,351 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:57:24,050 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 01:59:24,982 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 01:59:34,150 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 01:59:34,896 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 01:59:41,323 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 01:59:45,357 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 01:59:45,895 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 01:59:46,607 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:01:57,855 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:02:04,537 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:02:05,306 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:02:08,068 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:02:11,353 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:02:11,865 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:02:12,553 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:03:05,613 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:03:16,849 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:03:17,580 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:03:25,687 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:03:32,147 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:03:32,677 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:03:33,342 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:05:15,952 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:05:23,046 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:05:23,785 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:05:27,013 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:05:30,091 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:05:30,633 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:05:31,367 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:33:00,129 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:33:07,270 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:33:07,981 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:33:10,289 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:33:12,735 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:33:13,205 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:33:13,910 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:33:14,759 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:35:57,983 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:36:09,607 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:36:10,382 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:36:16,307 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:36:22,399 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:36:22,962 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:36:24,195 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:36:24,927 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:38:18,416 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:38:30,439 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:38:31,259 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:38:38,432 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:38:42,864 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:38:43,372 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:38:44,427 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:38:45,202 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:45:33,340 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:45:42,318 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:45:43,009 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:45:48,532 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:45:53,918 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:45:54,462 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:45:55,584 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:45:56,315 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:48:38,661 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:48:44,330 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:48:45,101 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:48:48,886 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:48:52,382 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:48:52,898 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:48:53,885 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:48:54,673 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:49:58,955 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:50:07,360 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:50:08,098 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:50:12,334 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:50:16,159 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:50:16,690 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:50:18,168 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:50:18,965 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2021-11-20 02:51:31,343 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-11-20 02:51:41,419 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 02:51:42,252 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 02:51:47,267 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 02:51:53,172 - logger_File -INFO - User clicked on Mac Book item
+2021-11-20 02:51:53,706 - logger_File -INFO - User clicked on Blue Add To Cart Button for MacBook
+2021-11-20 02:51:55,588 - logger_File -INFO - Add to Cart Success Message is shown
+2021-11-20 02:51:56,179 - logger_File -INFO - '1-Items-602' message showed on the black cart!
+2021-11-20 02:51:56,635 - logger_File -INFO - User clicked on black cart button again
+2021-11-20 02:51:57,381 - logger_File -INFO - User clicked on Remove from Cart button
+2021-11-20 02:51:58,176 - logger_File -INFO - Items removed from the black card shown
+2021-11-20 02:51:58,840 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-20 03:27:32,654 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:27:40,024 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:27:40,762 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:27:44,796 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:27:45,557 - logger_File -INFO - Scenario Product Comparison UNDEFINED
+2021-11-20 03:33:55,147 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:34:02,535 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:34:03,218 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:34:07,659 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:34:08,121 - logger_File -INFO - macbook product comparison button clicked
+2021-11-20 03:34:11,924 - logger_File -INFO - macbook Air product comparison button clicked
+2021-11-20 03:37:56,933 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:38:07,038 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:38:07,781 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:38:15,407 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:38:15,860 - logger_File -INFO - macbook product comparison button clicked
+2021-11-20 03:38:16,543 - logger_File -INFO - macbook Air product comparison button clicked
+2021-11-20 03:38:22,319 - logger_File -INFO - Mac Book added for comparison
+2021-11-20 03:38:26,778 - logger_File -INFO - product comparison link clicked
+2021-11-20 03:38:57,524 - logger_File -INFO - Scenario Product Comparison FAILED
+2021-11-20 03:39:49,945 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:39:59,472 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:40:00,152 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:40:07,656 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:40:08,152 - logger_File -INFO - macbook product comparison button clicked
+2021-11-20 03:40:08,873 - logger_File -INFO - macbook Air product comparison button clicked
+2021-11-20 03:40:14,645 - logger_File -INFO - Mac Book added for comparison
+2021-11-20 03:40:21,291 - logger_File -INFO - product comparison link clicked
+2021-11-20 03:41:28,303 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:41:40,826 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:41:41,525 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:41:48,061 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:41:48,526 - logger_File -INFO - macbook product comparison button clicked
+2021-11-20 03:41:49,202 - logger_File -INFO - macbook Air product comparison button clicked
+2021-11-20 03:41:54,920 - logger_File -INFO - Mac Book added for comparison
+2021-11-20 03:41:59,672 - logger_File -INFO - product comparison link clicked
+2021-11-20 03:42:00,160 - logger_File -INFO - product comparison chart is displayed!
+2021-11-20 03:42:00,724 - logger_File -INFO - Scenario Product Comparison PASSED
+2021-11-20 03:42:35,910 - logger_File -INFO - Scenario Product Comparison Started
+2021-11-20 03:42:44,134 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 03:42:44,852 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 03:42:51,847 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 03:42:52,306 - logger_File -INFO - macbook product comparison button clicked
+2021-11-20 03:42:53,005 - logger_File -INFO - macbook Air product comparison button clicked
+2021-11-20 03:42:58,743 - logger_File -INFO - Mac Book added for comparison
+2021-11-20 03:43:04,079 - logger_File -INFO - product comparison link clicked
+2021-11-20 03:43:04,549 - logger_File -INFO - product comparison chart is displayed!
+2021-11-20 03:43:05,185 - logger_File -INFO - Scenario Product Comparison PASSED
+2021-11-20 23:58:40,109 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-11-20 23:58:43,953 - logger_File -INFO - actual page title equals expected page title
+2021-11-20 23:58:44,595 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-20 23:58:45,706 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-20 23:58:46,437 - logger_File -INFO - Scenario Adding an item to Wish list UNDEFINED
+2021-11-21 00:01:55,569 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-11-21 00:02:02,561 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:02:03,260 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:02:09,004 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:02:39,735 - logger_File -INFO - Scenario Adding an item to Wish list FAILED
+2021-11-21 00:06:22,516 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-11-21 00:06:25,713 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:06:26,364 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:06:27,542 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:06:28,020 - logger_File -INFO - User clicked on the heart icon to add Sony VAIO to wish list
+2021-11-21 00:06:28,736 - logger_File -INFO - Wish list error messge is displayed on the page
+2021-11-21 00:06:29,348 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2021-11-21 00:14:41,343 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-21 00:14:48,815 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:14:49,483 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:14:51,739 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:14:52,389 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' UNDEFINED
+2021-11-21 00:15:42,112 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-21 00:15:45,078 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:15:45,835 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:15:47,909 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:15:48,643 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' UNDEFINED
+2021-11-21 00:16:39,621 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-21 00:16:47,899 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:16:48,573 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:16:54,584 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:16:55,206 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' UNDEFINED
+2021-11-21 00:19:49,975 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-21 00:19:58,670 - logger_File -INFO - actual page title equals expected page title
+2021-11-21 00:19:59,397 - logger_File -INFO - User clicked on laptop and Notebooks Tab
+2021-11-21 00:20:02,096 - logger_File -INFO - User clicked on show all laptop and Notebooks link
+2021-11-21 00:20:04,962 - logger_File -INFO - User clicked on the macBook Pro Item
+2021-11-21 00:20:05,469 - logger_File -INFO - Mac Book Pro Price is 2000 as expected
+2021-11-21 00:20:06,175 - logger_File -INFO - Scenario Validate the price of MacBook Pro is '2000' PASSED
+2021-11-21 00:45:24,167 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-21 00:45:27,148 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 00:45:27,836 - logger_File -INFO - user clicked on My Account
+2021-11-21 00:45:28,739 - logger_File -INFO - user clicked on Login option
+2021-11-21 00:45:29,268 - logger_File -INFO - user entered userName: dummyemail@gmail.com and Passwod: dummyPassword
+2021-11-21 00:45:30,036 - logger_File -INFO - user clicked on the login button
+2021-11-21 00:45:30,094 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 00:45:30,709 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-21 01:57:02,261 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method Started
+2021-11-21 01:57:05,508 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 01:57:06,281 - logger_File -INFO - user clicked on My Account
+2021-11-21 01:57:07,194 - logger_File -INFO - user clicked on Login option
+2021-11-21 01:57:07,761 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 01:57:09,339 - logger_File -INFO - user clicked on the login button
+2021-11-21 01:57:09,387 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 01:57:10,286 - logger_File -INFO - user clicked on the login button
+2021-11-21 01:57:10,929 - logger_File -INFO - User entered info to register for affiliate user
+2021-11-21 01:57:11,352 - logger_File -INFO - User clicked on About Us Button
+2021-11-21 01:57:12,192 - logger_File -INFO - User clicked on continue button
+2021-11-21 01:57:12,616 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 01:57:13,232 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method PASSED
+2021-11-21 02:04:01,566 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method Started
+2021-11-21 02:04:04,711 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 02:04:05,418 - logger_File -INFO - user clicked on My Account
+2021-11-21 02:04:06,330 - logger_File -INFO - user clicked on Login option
+2021-11-21 02:04:06,891 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 02:04:07,762 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:04:07,808 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 02:06:26,894 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method Started
+2021-11-21 02:06:29,652 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 02:06:30,408 - logger_File -INFO - user clicked on My Account
+2021-11-21 02:06:31,624 - logger_File -INFO - user clicked on Login option
+2021-11-21 02:06:32,187 - logger_File -INFO - user entered userName: dummyemail2@gmail.com and Passwod: dummyPassword
+2021-11-21 02:06:32,954 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:06:33,001 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 02:06:33,625 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:06:34,309 - logger_File -INFO - User entered info to register for affiliate user
+2021-11-21 02:06:34,717 - logger_File -INFO - User clicked on About Us Button
+2021-11-21 02:06:35,551 - logger_File -INFO - User clicked on continue button
+2021-11-21 02:06:35,962 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 02:06:36,570 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method PASSED
+2021-11-21 02:10:36,715 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method Started
+2021-11-21 02:10:39,618 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 02:10:40,374 - logger_File -INFO - user clicked on My Account
+2021-11-21 02:10:41,368 - logger_File -INFO - user clicked on Login option
+2021-11-21 02:10:41,904 - logger_File -INFO - user entered userName: dummyemail3@gmail.com and Passwod: dummyPassword
+2021-11-21 02:10:42,720 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:10:42,769 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 02:10:43,401 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:10:44,031 - logger_File -INFO - User entered info to register for affiliate user
+2021-11-21 02:10:44,461 - logger_File -INFO - User clicked on About Us Button
+2021-11-21 02:10:45,339 - logger_File -INFO - User clicked on continue button
+2021-11-21 02:10:45,759 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 02:10:46,418 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method PASSED
+2021-11-21 02:44:41,609 - logger_File -INFO - Scenario  Started
+2021-11-21 02:44:44,519 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 02:44:45,296 - logger_File -INFO - user clicked on My Account
+2021-11-21 02:44:47,112 - logger_File -INFO - user clicked on Login option
+2021-11-21 02:44:47,690 - logger_File -INFO - user entered userName: dummyemail3@gmail.com and Passwod: dummyPassword
+2021-11-21 02:44:48,673 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:44:48,727 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 02:44:49,378 - logger_File -INFO - Scenario  UNDEFINED
+2021-11-21 02:46:43,732 - logger_File -INFO - Scenario  Started
+2021-11-21 02:46:50,276 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 02:46:51,006 - logger_File -INFO - user clicked on My Account
+2021-11-21 02:46:52,914 - logger_File -INFO - user clicked on Login option
+2021-11-21 02:46:53,475 - logger_File -INFO - user entered userName: dummyemail3@gmail.com and Passwod: dummyPassword
+2021-11-21 02:46:55,739 - logger_File -INFO - user clicked on the login button
+2021-11-21 02:46:55,788 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 02:46:56,360 - logger_File -INFO - Scenario  UNDEFINED
+2021-11-21 03:00:29,745 - logger_File -INFO - Scenario  Started
+2021-11-21 03:00:38,637 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:00:39,475 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:00:41,175 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:00:41,741 - logger_File -INFO - user entered userName: dummyemail3@gmail.com and Passwod: dummyPassword
+2021-11-21 03:00:43,092 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:00:43,138 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:00:44,171 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:00:44,634 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:00:45,146 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:00:46,291 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:01:16,963 - logger_File -INFO - Scenario  FAILED
+2021-11-21 03:09:18,577 - logger_File -INFO - Scenario  Started
+2021-11-21 03:09:23,378 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:09:24,023 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:09:26,009 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:09:26,578 - logger_File -INFO - user entered userName: dummyemail3@gmail.com and Passwod: dummyPassword
+2021-11-21 03:09:28,313 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:09:28,361 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:09:29,556 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:09:30,002 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:09:34,633 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:09:36,164 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:10:06,785 - logger_File -INFO - Scenario  FAILED
+2021-11-21 03:11:17,203 - logger_File -INFO - Scenario  Started
+2021-11-21 03:11:21,744 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:11:22,438 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:11:24,830 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:11:25,389 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 03:11:27,580 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:11:27,633 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:11:28,836 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:11:29,305 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:11:33,887 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:11:36,233 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:12:06,922 - logger_File -INFO - Scenario  FAILED
+2021-11-21 03:17:53,887 - logger_File -INFO - Scenario  Started
+2021-11-21 03:17:57,800 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:17:58,487 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:17:59,765 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:18:00,307 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 03:18:02,992 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:18:03,042 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:18:05,043 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:18:07,515 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:18:12,159 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:18:14,465 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:18:45,081 - logger_File -INFO - Scenario  FAILED
+2021-11-21 03:29:56,583 - logger_File -INFO - Scenario  Started
+2021-11-21 03:30:00,669 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:30:01,441 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:30:05,513 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:30:06,051 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 03:30:09,282 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:30:09,330 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:30:11,827 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:30:14,307 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:30:18,938 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:30:21,942 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:30:52,663 - logger_File -INFO - Scenario  FAILED
+2021-11-21 03:33:30,834 - logger_File -INFO - Scenario  Started
+2021-11-21 03:33:39,484 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:33:40,208 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:33:42,406 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:33:42,974 - logger_File -INFO - user entered userName: dummyemail@gmail.com and Passwod: dummyPassword
+2021-11-21 03:33:44,843 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:33:44,905 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:33:47,682 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:33:50,173 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:33:54,865 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:33:57,011 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:33:57,427 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 03:33:58,013 - logger_File -INFO - Scenario  PASSED
+2021-11-21 03:38:36,397 - logger_File -INFO - Scenario  Started
+2021-11-21 03:38:40,513 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:38:41,240 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:38:43,039 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:38:43,594 - logger_File -INFO - user entered userName: dummyemail@gmail.com and Passwod: dummyPassword
+2021-11-21 03:38:46,004 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:38:46,056 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:38:48,423 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:38:50,928 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:38:55,683 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:38:58,978 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:38:59,378 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 03:38:59,958 - logger_File -INFO - Scenario  PASSED
+2021-11-21 03:41:18,782 - logger_File -INFO - Scenario  Started
+2021-11-21 03:41:25,726 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:41:26,421 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:41:28,673 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:41:29,241 - logger_File -INFO - user entered userName: dummyemail@gmail.com and Passwod: dummyPassword
+2021-11-21 03:41:32,547 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:41:32,606 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:41:34,949 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:41:37,452 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:41:40,376 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:41:44,113 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:41:44,535 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 03:41:45,090 - logger_File -INFO - Scenario  PASSED
+2021-11-21 03:42:17,483 - logger_File -INFO - Scenario  Started
+2021-11-21 03:42:23,178 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 03:42:23,959 - logger_File -INFO - user clicked on My Account
+2021-11-21 03:42:26,197 - logger_File -INFO - user clicked on Login option
+2021-11-21 03:42:26,738 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 03:42:29,008 - logger_File -INFO - user clicked on the login button
+2021-11-21 03:42:29,062 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 03:42:30,734 - logger_File -INFO - user clicked on Edit your affiliate information link  
+2021-11-21 03:42:33,207 - logger_File -INFO - user clicked on Bank Transfer payment method
+2021-11-21 03:42:36,052 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 03:42:38,359 - logger_File -INFO - User clicked on continue button
+2021-11-21 03:42:38,760 - logger_File -INFO - Affiliate User Success Message is displayed!
+2021-11-21 03:42:39,298 - logger_File -INFO - Scenario  PASSED
+2021-11-21 04:11:01,434 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:11:08,058 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:11:08,830 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:11:11,518 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:11:12,062 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:11:14,838 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:11:14,889 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:11:15,434 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-11-21 04:13:16,509 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:13:23,446 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:13:24,245 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:13:28,931 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:13:29,489 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:13:37,681 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:13:37,734 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:13:38,306 - logger_File -INFO - Scenario Edit your account Information UNDEFINED
+2021-11-21 04:23:07,019 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:23:12,875 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:23:13,590 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:23:17,505 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:23:18,044 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:23:22,543 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:23:22,597 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:23:25,492 - logger_File -INFO - user clicked on Edit Account information link  
+2021-11-21 04:23:26,138 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-11-21 04:25:50,575 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:25:54,643 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:25:55,311 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:25:56,787 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:25:57,331 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:25:58,738 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:25:58,785 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:26:00,188 - logger_File -INFO - user clicked on Edit Account information link  
+2021-11-21 04:26:03,026 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 04:26:04,372 - logger_File -INFO - user clicked on continue button
+2021-11-21 04:26:05,038 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-11-21 04:28:00,727 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:28:05,505 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:28:06,158 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:28:07,476 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:28:08,047 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:28:09,290 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:28:39,522 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-11-21 04:29:20,616 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:29:27,573 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:29:28,353 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:29:32,145 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:29:32,729 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:29:35,790 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:30:22,324 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:30:27,382 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:30:28,154 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:30:31,378 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:30:31,930 - logger_File -INFO - user entered userName: alhaj@alhajia.com and Passwod: dummyPassword
+2021-11-21 04:30:37,043 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:30:37,095 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:30:39,837 - logger_File -INFO - user clicked on Edit Account information link  
+2021-11-21 04:30:42,688 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 04:30:45,947 - logger_File -INFO - user clicked on continue button
+2021-11-21 04:30:46,513 - logger_File -INFO - Scenario Edit your account Information FAILED
+2021-11-21 04:43:16,454 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:43:20,993 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:43:21,703 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:43:23,043 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:43:23,619 - logger_File -INFO - user entered userName: dummyemail1@gmail.com.com and Passwod: dummyPassword
+2021-11-21 04:43:24,755 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:44:04,634 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:44:09,697 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:44:10,429 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:44:12,293 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:44:12,843 - logger_File -INFO - user entered userName: dummyemail3@gmail.com.com and Passwod: dummyPassword
+2021-11-21 04:44:14,242 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:45:06,466 - logger_File -INFO - Scenario Register as antaxID Affiliate user with Cheque Payment Method Started
+2021-11-21 04:45:10,367 - logger_File -INFO - Scenario  Started
+2021-11-21 04:45:12,981 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:45:24,181 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:45:30,895 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:45:31,594 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:45:35,123 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:45:35,682 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:45:39,078 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:45:39,130 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:45:41,471 - logger_File -INFO - user clicked on Edit Account information link  
+2021-11-21 04:45:44,361 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 04:45:47,801 - logger_File -INFO - user clicked on continue button
+2021-11-21 04:46:28,871 - logger_File -INFO - Scenario Edit your account Information Started
+2021-11-21 04:46:37,284 - logger_File -INFO - Acutal Title is matching with expected title
+2021-11-21 04:46:38,090 - logger_File -INFO - user clicked on My Account
+2021-11-21 04:46:41,509 - logger_File -INFO - user clicked on Login option
+2021-11-21 04:46:42,083 - logger_File -INFO - user entered userName: dummyemail1@gmail.com and Passwod: dummyPassword
+2021-11-21 04:46:45,810 - logger_File -INFO - user clicked on the login button
+2021-11-21 04:46:45,862 - logger_File -INFO - user is logged into the My Account Dashboard
+2021-11-21 04:46:48,470 - logger_File -INFO - user clicked on Edit Account information link  
+2021-11-21 04:46:51,355 - logger_File -INFO - User entered info to edit affiliate user
+2021-11-21 04:46:55,695 - logger_File -INFO - user clicked on continue button
+2021-11-21 04:46:56,077 - logger_File -INFO - Edit Account info Success Message is displayed!
+2021-11-21 04:46:56,649 - logger_File -INFO - Scenario Edit your account Information PASSED
+2021-11-21 04:55:21,753 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-11-21 04:55:30,672 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-21 04:55:31,693 - logger_File -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2021-11-21 04:58:29,931 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-11-21 04:58:36,215 - logger_File -INFO - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-21 04:58:38,526 - logger_File -INFO - User click on Shopping Cart Link
+2021-11-21 04:58:38,974 - logger_File -INFO - Shopping Cart empty message is displayed
+2021-11-21 04:58:39,575 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED

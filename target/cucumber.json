@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-11-10T04:48:15.424Z",
+        "start_timestamp": "2021-11-21T09:58:29.789Z",
         "before": [
           {
             "result": {
-              "duration": 3717221200,
+              "duration": 6333053500,
               "status": "passed"
             },
             "match": {
@@ -15,14 +15,14 @@
             }
           }
         ],
-        "line": 5,
-        "name": "Create new user account in Test Environment",
+        "line": 11,
+        "name": "User empty Shopping cart message displays",
         "description": "",
-        "id": "register-new-user-on-the-retail-webiste;create-new-user-account-in-test-environment",
+        "id": "register-new-user-on-the-retail-webiste;user-empty-shopping-cart-message-displays",
         "after": [
           {
             "result": {
-              "duration": 1077864400,
+              "duration": 259194600,
               "status": "passed"
             },
             "match": {
@@ -35,122 +35,44 @@
         "steps": [
           {
             "result": {
-              "duration": 851790000,
+              "duration": 740288700,
               "status": "passed"
             },
-            "line": 6,
-            "name": "user is on Retail website",
+            "line": 12,
+            "name": "User is on Retail website",
             "match": {
-              "location": "stepDefinitions.LoginStepDef.user_is_on_Retail_Website()"
+              "location": "stepDefinitions.HomePageStepDefinitions.user_is_on_retail_website()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 700332700,
+              "duration": 2007088400,
               "status": "passed"
             },
-            "line": 7,
-            "name": "user click on MyAccount",
+            "line": 13,
+            "name": "User click on shopping cart",
             "match": {
-              "location": "stepDefinitions.LoginStepDef.user_click_MyAccount()"
+              "location": "stepDefinitions.HomePageStepDefinitions.user_click_on_shopping_cart()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 1035927300,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "user click on Register",
-            "match": {
-              "location": "stepDefinitions.RegisterStepDef.user_click_on_register()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 844179500,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "user fill out the registration form with the below information",
-            "match": {
-              "location": "stepDefinitions.RegisterStepDef.user_fill_out_the_registration_form_with_the_below_information(io.cucumber.datatable.DataTable)"
-            },
-            "rows": [
-              {
-                "cells": [
-                  "firstName",
-                  "lastName",
-                  "email",
-                  "telephone",
-                  "password",
-                  "confirmPassword",
-                  "subscribe"
-                ]
-              },
-              {
-                "cells": [
-                  "alex",
-                  "connor",
-                  "alex420@gmail.com",
-                  "202101123456",
-                  "wrongPassword",
-                  "wrongPassword",
-                  "yes"
-                ]
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 408443800,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "user agree to privacy policy",
-            "match": {
-              "location": "stepDefinitions.RegisterStepDef.user_agree_to_privacy_policy()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 937285800,
-              "status": "passed"
-            },
-            "line": 13,
-            "name": "user click on continue button",
-            "match": {
-              "location": "stepDefinitions.RegisterStepDef.user_click_on_continue_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 420495100,
+              "duration": 383251400,
               "status": "passed"
             },
             "line": 14,
-            "name": "user should see successful message \u0027Your Account Has Been Created!\u0027",
+            "name": "“Your shopping cart is empty!” message should display",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Your Account Has Been Created!\u0027",
-                  "offset": 35
-                }
-              ],
-              "location": "stepDefinitions.RegisterStepDef.user_should_see_successful_message(java.lang.String)"
+              "location": "stepDefinitions.HomePageStepDefinitions.your_shopping_cart_is_empty_message_should_display()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@RegisterTest"
+            "name": "@emptyShoppingCart"
           }
         ]
       }
@@ -159,7 +81,7 @@
     "description": "",
     "id": "register-new-user-on-the-retail-webiste",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/retailHome.feature",
+    "uri": "file:src/test/resources/features/HomePage.feature",
     "tags": []
   }
 ]

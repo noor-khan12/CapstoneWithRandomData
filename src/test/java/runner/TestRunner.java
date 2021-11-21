@@ -10,9 +10,9 @@ import utilities.CucumberReportingConfig;
 @CucumberOptions(
 		features = ".\\src\\test\\resources\\features", 
 		// where the feature files are 
-		glue = "stepDefinitions",
+		glue = "classpath:stepDefinitions",
 		//where step definitions is 
-		tags = "@RegisterTest", 
+		tags = "@emptyShoppingCart", 
 		// the job of tags we will run one scenario or multiple scenarios or 
 		//entire feature 
 		dryRun = false, 

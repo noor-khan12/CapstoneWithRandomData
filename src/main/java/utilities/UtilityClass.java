@@ -161,5 +161,10 @@ public class UtilityClass extends Base{
 
 	}
 	
+	public static void ScrollToElement(WebElement element) {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
+	
 	
 }
