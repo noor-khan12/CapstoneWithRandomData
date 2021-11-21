@@ -146,14 +146,16 @@ public class DesktopsPageObject extends Base {
 
 	@FindBy(xpath = "//div[contains(text(), ' Thank you for your review. It has been submitted to the webmaster for approval.')]")
 	private WebElement reviewSuccessMessage;
-//	===============================================================
+//	=============== verify desktop items==================
 
 	public void clickOnDesktops() {
 		desktopsLink.click();
+		UtilityClass.ScrollToElement(desktopsLink);
 	}
 
 	public void clickOnShowAllDesktops() {
 		showAllDesktops.click();
+		UtilityClass.ScrollToElement(showAllDesktops);
 	}
 
 	public boolean isAllItemsShowing() {

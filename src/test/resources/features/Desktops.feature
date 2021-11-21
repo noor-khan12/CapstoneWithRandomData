@@ -1,9 +1,10 @@
+@capstoneProject 
 Feature: Desktops 
 Background: 
 	Given User is on Retail Website 
 	When User click on Desktops tab 
 	And User click on show all desktops 
-	
+
 @verifyItems 
 Scenario: User verify all items are present in Desktops tab 
 	Then User should see all items are present in Desktops page 

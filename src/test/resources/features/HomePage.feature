@@ -1,3 +1,4 @@
+@capstoneProject
 Feature: Register new user on the retail webiste 
 
 @CapstoneProject	

@@ -1,3 +1,4 @@
+@capstoneProject
 Feature: Laptop & Notebooks
 Background: 
 
