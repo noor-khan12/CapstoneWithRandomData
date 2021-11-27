@@ -1,8 +1,11 @@
 package stepDefinitions;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
+import org.json.JSONException;
+import org.json.simple.parser.ParseException;
 import org.junit.Assert;
 
 import core.Base;
@@ -11,12 +14,17 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageObjects.RegisterPageObject;
+import pageObjects.RegisterUserAndCreateRandomDataMethods;
 import pageObjects.RetailPageObject;
 import utilities.UtilityClass;
 
-public class RetailPageStepDefinitions extends Base {
-
+public class RetailPageFakeStepDefinitions extends Base {
+	
 	RetailPageObject retailPageObject = new RetailPageObject();
+	RegisterUserAndCreateRandomDataMethods registerUserAndCreateRandomDataMethods = new RegisterUserAndCreateRandomDataMethods();
+	RegisterPageObject registerPageObject = new RegisterPageObject(); 
+	
 
 	@Given("^user is on Retail website$")
 	public void user_is_on_Retail_Website() {
@@ -27,6 +35,7 @@ public class RetailPageStepDefinitions extends Base {
 		logger.info("Acutal Title is matching with expected title");
 		UtilityClass.takeScreenShot();
 	}
+
 
 	@When("^user click on MyAccount$")
 	public void user_click_MyAccount() {
@@ -44,10 +53,14 @@ public class RetailPageStepDefinitions extends Base {
 
 	}
 
-	@And("^user enter userName '(.+)' and password '(.+)'$")
-	public void user_enter_userName_and_Password(String userName, String Password) {
-		retailPageObject.enterEmailAndPassword(userName, Password);
-		logger.info("user entered userName: " + userName + " and Passwod: " + Password);
+
+	@And("user enter userName 'fakeEmail' and password 'fakePassword'$")
+	public void user_enter_userName_and_Password() throws IOException, ParseException, JSONException, InterruptedException {
+
+		String fakeJSONEmail = registerUserAndCreateRandomDataMethods.readFakeEmailFromJsonFile(); 
+		String fakeJSONPassword = registerUserAndCreateRandomDataMethods.readFakePasswordFromJsonFile(); 
+		retailPageObject.enterEmailAndPassword(fakeJSONEmail, fakeJSONPassword);
+		logger.info("user entered userName: "  + " and Passwod: " );
 		UtilityClass.takeScreenShot();
 
 	}
@@ -167,13 +180,18 @@ public class RetailPageStepDefinitions extends Base {
 		UtilityClass.takeScreenShot();
 	}
 	@When("User modify below information")
-	public void user_modify_below_information(DataTable dataTable) {
-		List<Map<String, String>> editAccount = dataTable.asMaps(String.class, String.class); 
-		
-	retailPageObject.enterEditAccountInfo(editAccount.get(0).get("firstname"), 
-			editAccount.get(0).get("lastName"),
-			editAccount.get(0).get("email"),
-			editAccount.get(0).get("telephone")); 
+	public void user_modify_below_information() {
+//		List<Map<String, String>> editAccount = dataTable.asMaps(String.class, String.class); 
+//		
+//	retailPageObject.enterEditAccountInfo(editAccount.get(0).get("firstname"), 
+//			editAccount.get(0).get("lastName"),
+//			editAccount.get(0).get("email"),
+//			editAccount.get(0).get("telephone"));
+	
+	retailPageObject.enterEditAccountInfo(registerUserAndCreateRandomDataMethods.getFakeFirstName(),
+						registerUserAndCreateRandomDataMethods.getFakeLasttName(),
+						registerUserAndCreateRandomDataMethods.getFakeEmail(),
+						registerUserAndCreateRandomDataMethods.getFakeTelePhone());
 	
 	logger.info("User entered info to edit affiliate user");
 	UtilityClass.takeScreenShot();
@@ -191,7 +209,7 @@ public class RetailPageStepDefinitions extends Base {
 		UtilityClass.takeScreenShot();
 
 	}
-	@Then("User should see a message ‘Success: Your account has been successfully updated.’")
+	@Then("User should see a message ‘Success: Your account has been successfully updated.1’")
 	public void user_should_see_a_message_success_your_account_has_been_successfully_updated() {
 		Assert.assertTrue(retailPageObject.isEditAccountInfoSuccessMessagePresent());
 		logger.info("Edit Account info Success Message is displayed!");

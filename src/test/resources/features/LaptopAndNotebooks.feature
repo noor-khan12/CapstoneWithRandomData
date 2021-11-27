@@ -1,4 +1,4 @@
-@capstoneProject
+@capstoneRandom
 Feature: Laptop & Notebooks
 Background: 
 

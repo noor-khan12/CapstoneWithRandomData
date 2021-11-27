@@ -7,16 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import core.Base;
 import utilities.UtilityClass;
 
-
-
 public class RetailPageObject extends Base {
-// in this class we will store UI elements of login page 
-	// we will implement PageFactory.initElement method to initialize the page
-	// elements.
-
-	// we will use @FindBy annotation to store UI WebELements.
-
-	//
 
 	public RetailPageObject() {
 		PageFactory.initElements(driver, this);
@@ -150,11 +141,11 @@ public class RetailPageObject extends Base {
 	}
 
 	public void enterwebsite(String websiteName) {
-		companyInput.sendKeys(websiteName);
+		websiteInput.sendKeys(websiteName);
 	}
 
 	public void enterTaxID(String taxID) {
-		companyInput.sendKeys(taxID);
+		taxIDInput.sendKeys(taxID);
 	}
 
 	public void selectPaymentMethod(String paymentMethod, String chequePayeOrPaypalEmail) {

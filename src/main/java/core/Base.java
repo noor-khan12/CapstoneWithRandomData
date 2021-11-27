@@ -22,6 +22,8 @@ public class Base {
 	public static Logger logger; // create an object of Logger class from apache
 	private String propertyPath = ".\\src\\test\\resources\\input\\property.properties";
 	private String log4jPath = ".\\src\\test\\resources\\input\\log4j.properties";
+	// private String fakeEmailPath =
+	// ".\\src\\test\\resources\\testDataResources\\fakeEmail.json";
 	// we need a constructor for this class to be invoked to read data from the two
 	// property files . it should be invoked before every method and variable /*
 
@@ -41,12 +43,21 @@ public class Base {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		logger = logger.getLogger("logger_File"); 
+
+		logger = logger.getLogger("logger_File");
 		PropertyConfigurator.configure(log4jPath);
-		
-	
-		
+
+	}
+
+	public static String getTestDataResourcePath() {
+		String testDataResourcePath = properties.getProperty("testDataResourcePath");
+
+		if (testDataResourcePath != null)
+			return testDataResourcePath;
+		else
+			throw new RuntimeException(
+					"Test Data Resource Path not specified in the Configuration.properties file for the Key:testDataResourcePath");
+
 	}
 
 	// we need to get the values now ... getters methods

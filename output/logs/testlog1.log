@@ -1036,3 +1036,760 @@
 2021-11-21 18:38:33,751 [main] INFO logger_File - user clicked on continue button
 2021-11-21 18:38:34,128 [main] INFO logger_File - Edit Account info Success Message is displayed!
 2021-11-21 18:38:34,759 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-22 00:26:11,135 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:26:16,810 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:26:17,482 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:26:20,259 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:26:22,878 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:26:23,454 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:26:24,287 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:26:24,352 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:26:28,180 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:26:28,850 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:26:33,128 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:26:37,164 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:26:37,729 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:26:38,544 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:29:43,506 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:29:50,908 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:29:51,583 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:29:55,139 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:29:58,604 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:29:59,193 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:30:00,086 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:30:00,109 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:30:07,434 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:30:08,234 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:30:13,542 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:30:19,136 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:30:19,693 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:30:20,523 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:32:57,182 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:33:04,600 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:33:05,314 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:33:08,470 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:33:11,373 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:33:11,959 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:33:12,813 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:33:12,836 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:33:16,390 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:33:17,046 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:33:19,808 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:33:22,152 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:33:22,731 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:33:23,562 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 00:36:08,633 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:36:15,266 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:36:15,935 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:36:19,910 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:36:24,232 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:36:24,787 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:36:25,784 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 00:36:25,805 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:36:32,815 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:36:33,495 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:36:39,182 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:36:44,061 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:36:44,642 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:36:45,456 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 00:39:42,140 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:39:48,786 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:39:49,474 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:39:52,302 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:39:55,434 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:39:56,151 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:39:57,168 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 00:39:57,201 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:40:00,598 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:40:01,317 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:40:05,009 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:40:07,649 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:40:08,217 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:40:09,132 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 00:47:11,938 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:47:25,547 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:47:26,238 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:47:34,145 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:47:39,940 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:47:40,555 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:47:41,389 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 00:47:41,410 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 00:47:45,889 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 00:47:46,589 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 00:47:49,702 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 00:47:52,301 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 00:47:52,917 [main] INFO logger_File - User clicked on write review link
+2021-11-22 00:47:53,834 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-22 01:08:03,758 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 01:08:09,174 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 01:08:09,862 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 01:08:11,103 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 01:08:12,546 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 01:08:13,115 [main] INFO logger_File - User clicked on write review link
+2021-11-22 01:08:14,360 [main] INFO logger_File - User clicked on review continue button
+2021-11-22 01:08:14,797 [main] INFO logger_File - Review Successfully submitted
+2021-11-22 01:08:16,479 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-22 01:08:16,494 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 01:08:19,296 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-22 01:08:20,021 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-22 01:08:20,873 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-22 01:08:22,175 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-22 01:08:22,760 [main] INFO logger_File - User clicked on write review link
+2021-11-22 01:08:23,926 [main] INFO logger_File - User clicked on review continue button
+2021-11-22 01:08:24,365 [main] INFO logger_File - Review Successfully submitted
+2021-11-22 01:08:25,004 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-22 13:31:43,717 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-22 13:31:54,876 [main] INFO logger_File - Scenario register user with fake data one method UNDEFINED
+2021-11-22 13:38:25,962 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-22 13:39:05,230 [main] INFO logger_File - Scenario register user with fake data one method FAILED
+2021-11-22 13:42:15,501 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-22 13:42:57,495 [main] INFO logger_File - Scenario register user with fake data one method FAILED
+2021-11-23 07:57:28,577 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 07:58:07,258 [main] INFO logger_File - Scenario register user with fake data one method FAILED
+2021-11-23 08:03:25,094 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 08:03:32,104 [main] INFO logger_File - Scenario register user with fake data one method UNDEFINED
+2021-11-23 08:05:21,394 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 08:06:01,010 [main] INFO logger_File - Scenario register user with fake data one method FAILED
+2021-11-23 08:09:18,202 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 08:09:34,689 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 08:37:55,758 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 08:38:10,100 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 14:58:36,853 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 14:58:51,062 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 15:15:25,527 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 15:15:39,286 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 15:17:30,060 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 15:17:44,373 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 23:49:54,470 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 23:50:07,574 [main] INFO logger_File - Scenario register user with fake data one method FAILED
+2021-11-23 23:51:34,311 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 23:51:48,369 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-23 23:53:45,205 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-23 23:54:03,114 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-24 00:04:34,312 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-24 00:04:54,565 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-24 00:43:24,059 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-24 00:43:29,396 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-24 00:43:30,259 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts UNDEFINED
+2021-11-24 00:54:59,769 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-24 00:55:06,630 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-24 00:55:07,505 [main] INFO logger_File - user clicked on My Account
+2021-11-24 00:55:08,674 [main] INFO logger_File - user clicked on Login option
+2021-11-24 00:55:09,915 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts FAILED
+2021-11-24 00:56:38,525 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-24 00:56:41,885 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-24 00:56:42,550 [main] INFO logger_File - user clicked on My Account
+2021-11-24 00:56:43,431 [main] INFO logger_File - user clicked on Login option
+2021-11-24 00:56:44,240 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts UNDEFINED
+2021-11-24 00:57:33,360 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-24 00:57:36,635 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-24 00:57:37,278 [main] INFO logger_File - user clicked on My Account
+2021-11-24 00:57:38,202 [main] INFO logger_File - user clicked on Login option
+2021-11-24 00:57:38,939 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts UNDEFINED
+2021-11-24 01:00:25,739 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts Started
+2021-11-24 01:00:33,211 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-24 01:00:33,919 [main] INFO logger_File - user clicked on My Account
+2021-11-24 01:00:39,467 [main] INFO logger_File - user clicked on Login option
+2021-11-24 01:00:40,138 [main] INFO logger_File - Scenario Retail website Login test with multiple accounts UNDEFINED
+2021-11-25 23:36:25,758 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-25 23:36:40,927 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-25 23:40:13,818 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-25 23:40:18,890 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:40:19,703 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-25 23:40:19,752 [main] INFO logger_File - Scenario  Started
+2021-11-25 23:40:22,247 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:40:23,135 [main] INFO logger_File - Scenario  UNDEFINED
+2021-11-25 23:40:23,153 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-25 23:40:25,793 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:40:26,703 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2021-11-25 23:41:14,516 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-25 23:41:19,323 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-25 23:41:19,357 [main] INFO logger_File - Scenario  Started
+2021-11-25 23:41:22,160 [main] INFO logger_File - Scenario  UNDEFINED
+2021-11-25 23:41:22,201 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-25 23:41:24,851 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2021-11-25 23:54:57,034 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-25 23:55:00,126 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:55:00,805 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:55:01,822 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:55:02,506 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-25 23:55:02,537 [main] INFO logger_File - Scenario  Started
+2021-11-25 23:55:04,987 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:55:05,625 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:55:06,459 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:55:07,108 [main] INFO logger_File - Scenario  UNDEFINED
+2021-11-25 23:55:07,124 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-25 23:55:09,501 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:55:10,135 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:55:10,974 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:55:11,618 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2021-11-25 23:57:20,226 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-25 23:57:25,123 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:57:25,825 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:57:26,713 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:57:27,411 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-25 23:57:27,437 [main] INFO logger_File - Scenario  Started
+2021-11-25 23:57:29,984 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:57:30,697 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:57:32,239 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:57:32,969 [main] INFO logger_File - Scenario  FAILED
+2021-11-25 23:57:32,986 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-25 23:57:35,585 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:57:36,289 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:57:37,177 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:57:37,895 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-25 23:58:39,571 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-25 23:58:42,731 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:58:43,379 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:58:44,226 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:58:44,938 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-25 23:58:44,982 [main] INFO logger_File - Scenario  Started
+2021-11-25 23:58:48,191 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:58:48,821 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:58:49,728 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:58:50,402 [main] INFO logger_File - Scenario  FAILED
+2021-11-25 23:58:50,415 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-25 23:58:52,863 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-25 23:58:53,513 [main] INFO logger_File - user clicked on My Account
+2021-11-25 23:58:54,373 [main] INFO logger_File - user clicked on Login option
+2021-11-25 23:58:54,980 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 00:01:22,104 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:01:25,359 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:01:26,006 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:01:26,907 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:01:27,621 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:01:27,644 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:01:30,199 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:01:30,839 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:01:32,916 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:01:33,574 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 00:01:33,588 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:01:37,375 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:01:38,009 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:01:39,514 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:01:40,206 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 00:07:59,031 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:08:03,714 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:08:04,397 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:08:05,300 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:08:06,062 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:08:06,106 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:08:08,590 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:08:09,220 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:08:10,095 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:08:10,744 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 00:08:10,757 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:08:13,249 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:08:13,902 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:08:15,089 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:08:15,764 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 00:09:43,388 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-26 00:10:11,691 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-26 00:12:51,099 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-26 00:13:04,440 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-26 00:16:45,349 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:16:53,057 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:16:53,757 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:16:59,442 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:16:59,977 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 00:17:04,257 [main] INFO logger_File - user clicked on the login button
+2021-11-26 00:17:15,144 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:17:18,460 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:18:31,261 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:18:37,095 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:18:37,749 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:18:39,926 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:19:13,689 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:19:13,712 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:19:20,299 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:19:20,924 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:19:25,548 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:19:57,121 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:20:30,795 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:20:36,613 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:20:37,274 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:20:40,522 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:32:52,851 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:32:57,115 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:32:57,776 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:33:00,330 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:33:34,120 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:33:34,143 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:33:39,030 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:33:39,682 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:33:42,374 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:34:16,066 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 00:34:16,084 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:34:22,793 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:34:23,500 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:34:26,859 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:35:00,587 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 00:38:40,307 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:39:03,860 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:39:04,598 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:39:35,496 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:39:35,521 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:39:58,125 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:39:58,856 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:40:02,743 [main] INFO logger_File - user clicked on Login option
+2021-11-26 00:40:09,699 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:40:57,859 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:41:19,798 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 00:41:20,567 [main] INFO logger_File - user clicked on My Account
+2021-11-26 00:41:51,615 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 00:41:51,663 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 00:42:27,092 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-26 00:42:27,134 [main] INFO logger_File - Scenario  Started
+2021-11-26 00:43:00,844 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 00:43:00,898 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 00:43:36,021 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 00:54:57,470 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-26 00:55:19,900 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-26 00:56:44,850 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-26 00:57:02,636 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-26 00:58:20,790 [main] INFO logger_File - Scenario register user with fake data one method Started
+2021-11-26 00:58:37,043 [main] INFO logger_File - Scenario register user with fake data one method PASSED
+2021-11-26 01:04:26,330 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:04:51,201 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 01:04:51,911 [main] INFO logger_File - user clicked on My Account
+2021-11-26 01:05:22,917 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 01:06:28,684 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:07:21,007 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 01:10:51,140 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:16:18,055 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:16:38,659 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 01:16:39,454 [main] INFO logger_File - user clicked on My Account
+2021-11-26 01:16:40,498 [main] INFO logger_File - user clicked on Login option
+2021-11-26 01:17:14,235 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 01:19:19,682 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:19:49,837 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 01:19:50,535 [main] INFO logger_File - user clicked on My Account
+2021-11-26 01:19:52,631 [main] INFO logger_File - user clicked on Login option
+2021-11-26 01:19:56,411 [main] INFO logger_File - Scenario  FAILED
+2021-11-26 01:21:27,306 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:21:43,293 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 01:21:44,021 [main] INFO logger_File - user clicked on My Account
+2021-11-26 01:21:44,962 [main] INFO logger_File - user clicked on Login option
+2021-11-26 01:21:48,568 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 01:21:49,433 [main] INFO logger_File - user clicked on the login button
+2021-11-26 01:21:49,488 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 01:21:50,155 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 01:23:06,719 [main] INFO logger_File - Scenario  Started
+2021-11-26 01:23:26,454 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 01:23:27,183 [main] INFO logger_File - user clicked on My Account
+2021-11-26 01:23:28,512 [main] INFO logger_File - user clicked on Login option
+2021-11-26 01:23:32,097 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 01:23:34,870 [main] INFO logger_File - user clicked on the login button
+2021-11-26 01:23:34,920 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 01:23:35,505 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 02:21:43,058 [main] INFO logger_File - Scenario  Started
+2021-11-26 02:22:01,933 [main] INFO logger_File - Scenario  UNDEFINED
+2021-11-26 02:23:07,259 [main] INFO logger_File - Scenario  Started
+2021-11-26 02:23:24,920 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:23:25,673 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 02:23:26,579 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:23:30,150 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:23:32,126 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:23:32,193 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:23:32,865 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 02:24:09,710 [main] INFO logger_File - Scenario  Started
+2021-11-26 02:24:26,290 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:24:27,050 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 02:24:28,074 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:24:31,638 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:24:33,004 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:24:33,053 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:24:33,733 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 02:32:55,672 [main] INFO logger_File - Scenario  Started
+2021-11-26 02:33:12,008 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:33:12,781 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 02:33:13,713 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:33:17,307 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:33:18,454 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:33:18,504 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:33:19,162 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 02:40:01,406 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 02:40:05,086 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:40:05,758 [main] INFO logger_File - user clicked on My Account
+2021-11-26 02:40:06,651 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:40:07,390 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2021-11-26 02:40:07,450 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 02:45:19,625 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 02:46:11,624 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2021-11-26 02:47:30,284 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 02:47:41,841 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:47:42,501 [main] INFO logger_File - user clicked on My Account
+2021-11-26 02:47:47,593 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:47:48,175 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:47:54,246 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:47:54,297 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:47:59,205 [main] INFO logger_File - user clicked on Edit Account information link  
+2021-11-26 02:48:02,075 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 02:48:09,079 [main] INFO logger_File - user clicked on continue button
+2021-11-26 02:48:09,490 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2021-11-26 02:48:10,067 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-26 02:49:40,783 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 02:49:45,272 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:49:45,948 [main] INFO logger_File - user clicked on My Account
+2021-11-26 02:49:47,935 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:49:48,533 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:49:49,993 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:58:49,115 [main] INFO logger_File - Scenario  Started
+2021-11-26 02:59:11,763 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:59:12,502 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 02:59:13,576 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:59:17,157 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:59:19,363 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:59:19,412 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:59:20,080 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 02:59:48,238 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 02:59:52,732 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 02:59:53,369 [main] INFO logger_File - user clicked on My Account
+2021-11-26 02:59:54,688 [main] INFO logger_File - user clicked on Login option
+2021-11-26 02:59:55,243 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 02:59:57,027 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:59:57,075 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 02:59:58,637 [main] INFO logger_File - user clicked on the login button
+2021-11-26 02:59:59,287 [main] INFO logger_File - User entered info to register for affiliate user
+2021-11-26 02:59:59,687 [main] INFO logger_File - User clicked on About Us Button
+2021-11-26 03:00:03,658 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:00:04,052 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:00:04,648 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-26 03:00:32,119 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:00:35,573 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:00:36,250 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:00:37,268 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:00:37,928 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:00:39,057 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:00:39,116 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:00:40,312 [main] INFO logger_File - user clicked on Edit your affiliate information link  
+2021-11-26 03:00:42,823 [main] INFO logger_File - user clicked on Bank Transfer payment method
+2021-11-26 03:00:45,757 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:00:48,691 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:00:49,108 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:00:49,707 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:01:19,293 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 03:01:26,412 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:01:27,073 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:01:29,261 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:01:29,794 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:01:33,425 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:01:33,472 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:01:37,273 [main] INFO logger_File - user clicked on Edit Account information link  
+2021-11-26 03:01:40,161 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:01:45,648 [main] INFO logger_File - user clicked on continue button
+2021-11-26 03:01:46,033 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2021-11-26 03:01:46,634 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-26 03:13:49,911 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-26 03:13:56,649 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:13:57,521 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:14:04,857 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:14:04,915 [main] INFO logger_File - All items are present in Desktops page
+2021-11-26 03:14:05,599 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-26 03:14:05,616 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-26 03:14:11,496 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:14:12,196 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:14:16,156 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:14:16,206 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2021-11-26 03:14:22,402 [main] INFO logger_File - User selected quantity
+2021-11-26 03:14:22,938 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2021-11-26 03:14:24,880 [main] INFO logger_File - HP LP is successfully added to the cart
+2021-11-26 03:14:26,483 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-26 03:14:26,504 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-26 03:14:30,945 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:14:31,690 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:14:37,346 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:14:37,388 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2021-11-26 03:14:41,662 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2021-11-26 03:14:42,215 [main] INFO logger_File - Canon purchase quantity is 1
+2021-11-26 03:14:42,720 [main] INFO logger_File - User added Canon to cart and clicked on Add to Cart button
+2021-11-26 03:14:44,373 [main] INFO logger_File - Success message displayed for Canon purchase
+2021-11-26 03:14:45,193 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-26 03:14:45,250 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-26 03:14:52,229 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:14:52,912 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:14:57,335 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:15:03,326 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-26 03:15:03,909 [main] INFO logger_File - User clicked on write review link
+2021-11-26 03:15:05,212 [main] INFO logger_File - User clicked on review continue button
+2021-11-26 03:15:05,885 [main] INFO logger_File - Review Successfully submitted
+2021-11-26 03:15:06,504 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-26 03:15:06,541 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-26 03:15:12,045 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:15:12,722 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:15:15,809 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:15:19,251 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-26 03:15:19,820 [main] INFO logger_File - User clicked on write review link
+2021-11-26 03:15:21,065 [main] INFO logger_File - User clicked on review continue button
+2021-11-26 03:15:21,518 [main] INFO logger_File - Review Successfully submitted
+2021-11-26 03:15:22,233 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-26 03:15:22,270 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-26 03:15:25,701 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-26 03:15:26,416 [main] INFO logger_File - User click on Currency Button
+2021-11-26 03:15:27,863 [main] INFO logger_File - User choose Euro from Dropdown
+2021-11-26 03:15:28,540 [main] INFO logger_File - Currency value has changed to Euro
+2021-11-26 03:15:29,370 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-26 03:15:29,378 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-26 03:15:33,237 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-26 03:15:34,951 [main] INFO logger_File - User click on Shopping Cart Link
+2021-11-26 03:15:35,358 [main] INFO logger_File - Shopping Cart empty message is displayed
+2021-11-26 03:15:35,941 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-11-26 03:15:35,966 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-26 03:15:39,069 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:15:39,753 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:15:41,216 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:15:42,880 [main] INFO logger_File - User clicked on Mac Book item
+2021-11-26 03:15:43,418 [main] INFO logger_File - User clicked on Blue Add To Cart Button for MacBook
+2021-11-26 03:15:43,909 [main] INFO logger_File - Add to Cart Success Message is shown
+2021-11-26 03:15:44,443 [main] INFO logger_File - '1-Items-602' message showed on the black cart!
+2021-11-26 03:15:44,944 [main] INFO logger_File - User clicked on black cart button again
+2021-11-26 03:15:45,504 [main] INFO logger_File - User clicked on Remove from Cart button
+2021-11-26 03:15:46,037 [main] INFO logger_File - Items removed from the black card shown
+2021-11-26 03:15:47,189 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-26 03:15:47,202 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-26 03:15:50,506 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:15:51,177 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:15:53,392 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:15:53,857 [main] INFO logger_File - macbook product comparison button clicked
+2021-11-26 03:15:54,610 [main] INFO logger_File - macbook Air product comparison button clicked
+2021-11-26 03:16:00,081 [main] INFO logger_File - Mac Book added for comparison
+2021-11-26 03:16:02,471 [main] INFO logger_File - product comparison link clicked
+2021-11-26 03:16:02,962 [main] INFO logger_File - product comparison chart is displayed!
+2021-11-26 03:16:03,594 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-26 03:16:03,604 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-26 03:16:07,541 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:16:08,255 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:16:10,442 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:16:10,940 [main] INFO logger_File - User clicked on the heart icon to add Sony VAIO to wish list
+2021-11-26 03:16:11,586 [main] INFO logger_File - Wish list error messge is displayed on the page
+2021-11-26 03:16:12,395 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-26 03:16:12,404 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-26 03:16:16,062 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:16:16,736 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:16:20,066 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:16:23,742 [main] INFO logger_File - User clicked on the macBook Pro Item
+2021-11-26 03:16:24,253 [main] INFO logger_File - Mac Book Pro Price is 2000 as expected
+2021-11-26 03:16:24,994 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' PASSED
+2021-11-26 03:16:25,021 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:17:04,809 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:17:05,526 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 03:17:09,213 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:17:12,748 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:17:19,230 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:17:19,274 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:17:19,876 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:17:19,893 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 03:17:26,484 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:17:27,155 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:17:30,866 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:17:31,427 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:17:37,126 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:17:37,174 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:17:41,659 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:17:42,323 [main] INFO logger_File - User entered info to register for affiliate user
+2021-11-26 03:17:42,789 [main] INFO logger_File - User clicked on About Us Button
+2021-11-26 03:17:47,861 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:17:48,287 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:17:48,908 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-26 03:17:48,941 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:17:54,499 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:17:55,199 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:17:57,228 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:17:57,761 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:17:59,709 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:17:59,749 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:18:02,440 [main] INFO logger_File - user clicked on Edit your affiliate information link  
+2021-11-26 03:18:04,930 [main] INFO logger_File - user clicked on Bank Transfer payment method
+2021-11-26 03:18:07,781 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:18:10,076 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:18:10,478 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:18:11,086 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:18:11,103 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 03:18:14,133 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:18:14,840 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:18:18,052 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:18:18,571 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:18:22,459 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:18:22,496 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:18:25,386 [main] INFO logger_File - user clicked on Edit Account information link  
+2021-11-26 03:18:28,222 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:18:32,336 [main] INFO logger_File - user clicked on continue button
+2021-11-26 03:18:32,725 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2021-11-26 03:18:33,259 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-26 03:36:06,374 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-26 03:36:14,950 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:36:15,818 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:36:18,376 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:36:18,428 [main] INFO logger_File - All items are present in Desktops page
+2021-11-26 03:36:19,081 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-26 03:36:19,105 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-26 03:36:22,286 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:36:22,988 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:36:24,362 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:36:24,403 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2021-11-26 03:36:26,861 [main] INFO logger_File - User selected quantity
+2021-11-26 03:36:27,398 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2021-11-26 03:36:28,028 [main] INFO logger_File - HP LP is successfully added to the cart
+2021-11-26 03:36:28,879 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-26 03:36:28,896 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-26 03:36:32,371 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:36:33,040 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:36:34,850 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:36:34,891 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2021-11-26 03:36:38,198 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2021-11-26 03:36:38,807 [main] INFO logger_File - Canon purchase quantity is 1
+2021-11-26 03:36:39,315 [main] INFO logger_File - User added Canon to cart and clicked on Add to Cart button
+2021-11-26 03:36:40,045 [main] INFO logger_File - Success message displayed for Canon purchase
+2021-11-26 03:36:40,942 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-26 03:36:41,003 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-26 03:36:43,942 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:36:44,629 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:36:45,545 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:36:47,518 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-26 03:36:48,147 [main] INFO logger_File - User clicked on write review link
+2021-11-26 03:36:49,391 [main] INFO logger_File - User clicked on review continue button
+2021-11-26 03:36:49,830 [main] INFO logger_File - Review Successfully submitted
+2021-11-26 03:36:51,675 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-26 03:36:51,691 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-26 03:36:54,389 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-26 03:36:55,105 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-26 03:36:55,996 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-26 03:36:57,181 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-26 03:36:57,784 [main] INFO logger_File - User clicked on write review link
+2021-11-26 03:36:59,014 [main] INFO logger_File - User clicked on review continue button
+2021-11-26 03:36:59,473 [main] INFO logger_File - Review Successfully submitted
+2021-11-26 03:37:01,265 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-26 03:37:01,282 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-26 03:37:03,954 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-26 03:37:04,633 [main] INFO logger_File - User click on Currency Button
+2021-11-26 03:37:05,714 [main] INFO logger_File - User choose Euro from Dropdown
+2021-11-26 03:37:06,458 [main] INFO logger_File - Currency value has changed to Euro
+2021-11-26 03:37:07,343 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-26 03:37:07,356 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-26 03:37:11,042 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-26 03:37:12,001 [main] INFO logger_File - User click on Shopping Cart Link
+2021-11-26 03:37:12,439 [main] INFO logger_File - Shopping Cart empty message is displayed
+2021-11-26 03:37:13,100 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-11-26 03:37:13,118 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-26 03:37:15,750 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:37:16,396 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:37:17,615 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:37:19,138 [main] INFO logger_File - User clicked on Mac Book item
+2021-11-26 03:37:19,688 [main] INFO logger_File - User clicked on Blue Add To Cart Button for MacBook
+2021-11-26 03:37:20,224 [main] INFO logger_File - Add to Cart Success Message is shown
+2021-11-26 03:37:20,727 [main] INFO logger_File - '1-Items-602' message showed on the black cart!
+2021-11-26 03:37:21,222 [main] INFO logger_File - User clicked on black cart button again
+2021-11-26 03:37:21,764 [main] INFO logger_File - User clicked on Remove from Cart button
+2021-11-26 03:37:22,283 [main] INFO logger_File - Items removed from the black card shown
+2021-11-26 03:37:23,637 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-26 03:37:23,645 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-26 03:37:26,157 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:37:26,899 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:37:28,045 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:37:28,489 [main] INFO logger_File - macbook product comparison button clicked
+2021-11-26 03:37:29,280 [main] INFO logger_File - macbook Air product comparison button clicked
+2021-11-26 03:37:35,034 [main] INFO logger_File - Mac Book added for comparison
+2021-11-26 03:37:35,773 [main] INFO logger_File - product comparison link clicked
+2021-11-26 03:37:36,255 [main] INFO logger_File - product comparison chart is displayed!
+2021-11-26 03:37:36,822 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-26 03:37:36,835 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-26 03:37:39,282 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:37:39,996 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:37:41,129 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:37:41,607 [main] INFO logger_File - User clicked on the heart icon to add Sony VAIO to wish list
+2021-11-26 03:37:42,333 [main] INFO logger_File - Wish list error messge is displayed on the page
+2021-11-26 03:37:43,071 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-26 03:37:43,102 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-26 03:37:45,648 [main] INFO logger_File - actual page title equals expected page title
+2021-11-26 03:37:46,373 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-26 03:37:48,174 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-26 03:37:50,185 [main] INFO logger_File - User clicked on the macBook Pro Item
+2021-11-26 03:37:50,738 [main] INFO logger_File - Mac Book Pro Price is 2000 as expected
+2021-11-26 03:37:51,458 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' PASSED
+2021-11-26 03:37:51,481 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:38:05,745 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:38:06,514 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 03:38:07,398 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:38:10,960 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:38:11,773 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:38:11,813 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:38:12,398 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:38:12,426 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 03:38:14,828 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:38:15,503 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:38:18,447 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:38:19,004 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:38:23,114 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:38:23,146 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:38:26,225 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:38:26,892 [main] INFO logger_File - User entered info to register for affiliate user
+2021-11-26 03:38:27,342 [main] INFO logger_File - User clicked on About Us Button
+2021-11-26 03:38:29,034 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:38:29,455 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:38:29,994 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-26 03:38:30,005 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:38:33,519 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:38:34,224 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:38:35,715 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:38:36,271 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:38:37,712 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:38:37,750 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:38:39,007 [main] INFO logger_File - user clicked on Edit your affiliate information link  
+2021-11-26 03:38:41,462 [main] INFO logger_File - user clicked on Bank Transfer payment method
+2021-11-26 03:38:44,350 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:38:45,262 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:38:45,712 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:38:46,275 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:38:46,283 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-26 03:38:51,209 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:38:51,882 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:38:54,581 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:38:55,156 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:38:58,114 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:38:58,159 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:38:59,906 [main] INFO logger_File - user clicked on Edit Account information link  
+2021-11-26 03:39:02,743 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:39:05,515 [main] INFO logger_File - user clicked on continue button
+2021-11-26 03:39:05,912 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2021-11-26 03:39:06,459 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-26 03:47:43,306 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:47:48,970 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:47:49,671 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:47:51,982 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:47:52,561 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:47:54,596 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:47:54,650 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:47:55,818 [main] INFO logger_File - user clicked on Edit your affiliate information link  
+2021-11-26 03:47:58,356 [main] INFO logger_File - user clicked on Bank Transfer payment method
+2021-11-26 03:48:01,234 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-26 03:48:02,699 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:48:03,161 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:48:03,747 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:51:43,327 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 03:51:48,943 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:51:49,597 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:51:52,324 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:51:52,918 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:51:55,794 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:51:55,848 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:52:33,047 [main] INFO logger_File - Scenario  Started
+2021-11-26 03:52:50,729 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:52:51,556 [main] INFO logger_File - user clicked on My Account1
+2021-11-26 03:52:52,611 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:52:56,205 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:52:56,983 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:52:57,044 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:52:57,755 [main] INFO logger_File - Scenario  PASSED
+2021-11-26 03:53:13,849 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-26 03:53:18,907 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-26 03:53:19,584 [main] INFO logger_File - user clicked on My Account
+2021-11-26 03:53:21,757 [main] INFO logger_File - user clicked on Login option
+2021-11-26 03:53:22,378 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-26 03:53:24,634 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:53:24,694 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-26 03:53:26,398 [main] INFO logger_File - user clicked on the login button
+2021-11-26 03:53:27,227 [main] INFO logger_File - User entered info to register for affiliate user
+2021-11-26 03:53:27,665 [main] INFO logger_File - User clicked on About Us Button
+2021-11-26 03:53:29,360 [main] INFO logger_File - User clicked on continue button
+2021-11-26 03:53:29,797 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-26 03:53:30,411 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED

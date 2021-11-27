@@ -67,27 +67,24 @@ public class LaptopAndNotebooksPageObject extends Base {
 	@FindBy(xpath = "//strong[normalize-space()='MacBook Air']")
 	private WebElement macBookAirLinkInChart;
 //	============== add to wishlist Elements ========
-	
+
 	@FindBy(xpath = "//div[5]//div[1]//div[2]//div[2]//button[2]")
-	//i[@class='fa fa-heart' and @xpath='1']
-	//this xpath can be highlighted in the DOM but selenium can't find it. 
-	//NoSuchELementException thrown at me! 
+	// i[@class='fa fa-heart' and @xpath='1']
+	// this xpath can be highlighted in the DOM but selenium can't find it.
+	// NoSuchELementException thrown at me!
 	private WebElement addToWishListButtonSonyVAIO;
-	
+
 	@FindBy(xpath = "//div[text()=' You must ']//a[text()='Sony VAIO']")
 	private WebElement sonyVAIOTextInTheMessage;
-	
+
 	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
 	private WebElement wishListErroMessage;
 //	==================== validate price elements ======= 
 	@FindBy(xpath = "//a[text()='MacBook Pro']")
 	private WebElement macBookProItem;
-	
+
 	@FindBy(xpath = "//h2[text()='$2,000.00']")
 	private WebElement macBookProPrice;
-	
-	
-	
 
 	public void clickOnLaptopAndNotebook() {
 		laptopsAndNotebooksLink.click();
@@ -168,31 +165,31 @@ public class LaptopAndNotebooksPageObject extends Base {
 			return false;
 		}
 	}
-	
+
 	public void clickOnHeartIconSonyVAIO() {
-		addToWishListButtonSonyVAIO.click(); 
+		addToWishListButtonSonyVAIO.click();
 	}
-	
+
 	public boolean isWishListErrorMessagePresent() {
-		if(wishListErroMessage.isDisplayed() && sonyVAIOTextInTheMessage.isDisplayed()) {
+		if (wishListErroMessage.isDisplayed() && sonyVAIOTextInTheMessage.isDisplayed()) {
 			return true;
 		} else {
-			return false; 
+			return false;
 		}
 	}
-	
+
 	public void clickOnMacBookProItem() {
-		macBookProItem.click(); 
+		macBookProItem.click();
 	}
-	
+
 	public boolean isMacBookProPriceEqualsTheExpectedPrice() {
-		String actualMacBookProPrice = macBookProPrice.getText(); 
-		String expecteMacBookProPrice = "$2,000.00"; 
-		
+		String actualMacBookProPrice = macBookProPrice.getText();
+		String expecteMacBookProPrice = "$2,000.00";
+
 		if (actualMacBookProPrice.equals(expecteMacBookProPrice)) {
-			return true; 
+			return true;
 		} else {
-			return false; 
+			return false;
 		}
 	}
 

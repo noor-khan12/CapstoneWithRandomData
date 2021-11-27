@@ -131,26 +131,31 @@ public class DesktopsPageStepDefinition extends Base {
 		logger.info("User clicked on write review link");
 		UtilityClass.takeScreenShot();
 	}
-	@When("user fill the review information with below information")
-	public void user_fill_the_review_information_with_below_information(DataTable dataTable) {
-	    // Write code here that turns the phrase above into concrete actions
-	    // For automatic transformation, change DataTable to one of
-	    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
-	    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
-	    // Double, Byte, Short, Long, BigInteger or BigDecimal.
-	    //
-		List<Map<String, String>> inputs = dataTable.asMaps(String.class, String.class); 
-		desktopPageObjects.enterName(inputs.get(0).get("yourname"));
-		desktopPageObjects.enterReviewText(inputs.get(0).get("yourReview"));
-		//desktopPageObjects.selectRating(inputs.get(0).get("Rating"));
-		//this will take a string argument however those are 
-		//radio buttons, not good and bad 
-		desktopPageObjects.selectRating(inputs.get(0).get("Rating"));
-		logger.info("User gave a bad review to the product one star!");
+	@When("^user fill the review information with below information '(.+)' '(.+)' '(.+)'$")
+	public void user_fill_the_review_information_with_below_information(String name, String review, String rating) {
+		desktopPageObjects.enterName(name);
+		desktopPageObjects.enterReviewText(review);
+		desktopPageObjects.selectRating(rating);
 		UtilityClass.takeScreenShot();
-		// explanation: so this will pass the 'Rating' we have in the 
-		// feature file to the method selectRating and based on the 
-		// values that method will click on any of the five buttons!! 
+//
+//		List<Map<String, String>> inputs = dataTable.asMaps(String.class, String.class); 
+//		desktopPageObjects.enterName(inputs.get(0).get("yourname"));
+//		desktopPageObjects.enterReviewText(inputs.get(0).get("yourReview"));
+//		//desktopPageObjects.selectRating(inputs.get(0).get("Rating"));
+//		//this will take a string argument however those are 
+//		//radio buttons, not good and bad 
+//		desktopPageObjects.selectRating(inputs.get(0).get("Rating"));
+//		try {
+//			Thread.sleep(3000);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//		logger.info("User gave a bad review to the product one star!");
+//		UtilityClass.takeScreenShot();
+//		// explanation: so this will pass the 'Rating' we have in the 
+//		// feature file to the method selectRating and based on the 
+//		// values that method will click on any of the five buttons!! 
 //		desktopPageObjects.enterName(inputs.get(1).get("yourname"));
 //		desktopPageObjects.enterReviewText(inputs.get(1).get("yourReview"));
 //		desktopPageObjects.selectRating(inputs.get(1).get("Rating"));

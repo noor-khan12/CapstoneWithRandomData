@@ -30,23 +30,6 @@ public class HomePageObjects extends Base {
 	@FindBy(xpath = "//button[@name='USD']")
 	private WebElement currencyUSD;
 
-//	@FindBy(xpath="//a[@title='My Account'")
-//	private WebElement myAccount;
-	// this element is already present in the login page object class ,
-	// shall we add it again? I think no
-	// yes we add it because this is a new page object , so the other page
-	// is different and those elements are private and can't be shared with
-	// this page. so we write it again!!
-
-	// oh he said we don't need it lol why? because
-	// it is the same object even though placed in two different pages?
-//	
-//	@FindBy(xpath="//a[normalize-space()='Register']")
-//	private WebElement register; 
-//	
-//	@FindBy(xpath = "//a[text()='Login']")
-//	private WebElement login; 
-
 	@FindBy(xpath = "//a[@id = 'wishlist-total']")
 	private WebElement wishList;
 

@@ -12,7 +12,7 @@ import utilities.CucumberReportingConfig;
 		// where the feature files are 
 		glue = "classpath:stepDefinitions",
 		//where step definitions is 
-		tags = "@capstoneProject", 
+		tags = "@capstoneRandom", 
 		// the job of tags we will run one scenario or multiple scenarios or 
 		//entire feature 
 		dryRun = false, 

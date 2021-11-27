@@ -1,8 +1,17 @@
 package pageObjects;
 
+import java.util.Locale;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.github.javafaker.Faker;
+import com.github.javafaker.service.FakeValuesService;
+import com.github.javafaker.service.RandomService;
 
 import core.Base;
 
@@ -44,8 +53,27 @@ public class RegisterPageObject extends Base {
 	@FindBy(xpath = "//input[@value='Continue']")
 	private WebElement continueButton;
 
+	@FindBy(xpath = "//a[@title='My Account']")
+	private WebElement myAccount;
+
 	@FindBy(xpath = "//h1[text()='Your Account Has Been Created!']")
 	private WebElement successMessage;
+
+	@FindBy(xpath = "//a[@class='btn btn-primary']")
+	private WebElement continueButtonAfterRegister;
+
+	@FindBy(xpath = "//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Logout']")
+	private WebElement logOutButton;
+
+	@FindBy(xpath = "//a[@class='btn btn-primary']")
+	private WebElement continueButtonAfterLogout;
+
+	public void clickOnMyAccount() {
+		// new WebDriverWait(driver,
+		// 5).until(ExpectedConditions.elementToBeClickable(By.xpath("//a[@title='My
+		// Account']"))).click();
+		myAccount.click();
+	}
 
 	public void clickOnRegister() {
 		register.click();
@@ -85,9 +113,9 @@ public class RegisterPageObject extends Base {
 	}
 
 	public void clickOnPrivacyPolicy() {
-		if (!privacyPolicy.isSelected()) 
+		if (!privacyPolicy.isSelected())
 			privacyPolicy.click();
-		
+
 	}
 
 	public void clickOnContinueButton() {
@@ -96,5 +124,17 @@ public class RegisterPageObject extends Base {
 
 	public String getSuccessMessage() {
 		return successMessage.getText();
+	}
+
+	public void clickOnContinueButtonAfterRegister() throws InterruptedException {
+		continueButtonAfterRegister.click();
+		Thread.sleep(2000);
+	}
+
+	public void clickOnLogout() throws InterruptedException {
+		myAccount.click();
+		logOutButton.click();
+		continueButtonAfterLogout.click();
+		// Thread.sleep(2000);
 	}
 }
