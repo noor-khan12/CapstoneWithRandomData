@@ -228,7 +228,7 @@ public class DesktopsPageObject extends Base {
 	}
 
 	public boolean isSuccessMessageDisplayedCanon() {
-		js.executeScript("arguments[0].scrollIntoView();", scrollToSuccessMessageThroughCanonLink);
+		//js.executeScript("arguments[0].scrollIntoView();", scrollToSuccessMessageThroughCanonLink);
 
 		if (successMessageCanon.isDisplayed()) {
 			return true;

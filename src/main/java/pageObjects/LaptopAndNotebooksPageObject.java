@@ -50,7 +50,7 @@ public class LaptopAndNotebooksPageObject extends Base {
 	@FindBy(xpath = "//div[3]//div[1]//div[2]//div[2]//button[3]")
 	private WebElement macBookAirCompareButton;
 
-	@FindBy(xpath = "//div[text()=' Success: You have added ']//a[text()='MacBook Air']")
+	@FindBy(xpath = "//div[@class='alert alert-success alert-dismissible']")
 //	//div[text()=' Success: You have added ']//a[text()='MacBook Air']
 //	//div[@class='alert alert-success alert-dismissible']
 	private WebElement compareSuccessMessageMacBook;
