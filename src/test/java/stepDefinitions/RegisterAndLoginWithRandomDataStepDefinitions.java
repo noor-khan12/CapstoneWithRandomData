@@ -48,7 +48,7 @@ public class RegisterAndLoginWithRandomDataStepDefinitions extends Base{
 
 
 	@When("^user click on MyAccount1$")
-	public void user_click_MyAccount() {
+	public void user_click_MyAccount1() {
 		retailPageObject.clickOnMyAccount();
 		logger.info("user clicked on My Account1");
 		UtilityClass.takeScreenShot();

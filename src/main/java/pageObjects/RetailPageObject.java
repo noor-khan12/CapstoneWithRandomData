@@ -17,7 +17,8 @@ public class RetailPageObject extends Base {
 
 	}
 
-	@FindBy(xpath = "//span[normalize-space()='My Account']")
+	@FindBy(xpath = "//a[@title='My Account']")
+	//span[normalize-space()='My Account']
 	private WebElement myAccount;
 
 	@FindBy(xpath = "//a[text()='Login']")
@@ -108,12 +109,6 @@ public class RetailPageObject extends Base {
 	private WebElement successMessageEditAccountInfo;
 
 	public void clickOnMyAccount() {
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		myAccount.click();
 	}
 
