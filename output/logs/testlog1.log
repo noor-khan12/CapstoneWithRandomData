@@ -1929,3 +1929,307 @@
 2021-11-27 01:12:02,303 [main] INFO logger_File - user clicked on continue button
 2021-11-27 01:12:02,692 [main] INFO logger_File - Edit Account info Success Message is displayed!
 2021-11-27 01:12:03,203 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2021-11-27 02:08:30,237 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-27 02:08:31,751 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-27 02:08:32,601 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-27 02:08:33,472 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:08:34,339 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:08:35,630 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-27 02:08:36,330 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-27 02:08:37,051 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-27 02:08:37,815 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-27 02:08:38,561 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-27 02:08:39,328 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-27 02:08:40,289 [main] INFO logger_File - Scenario  Started
+2021-11-27 02:08:41,151 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-27 02:08:41,992 [main] INFO logger_File - Scenario  Started
+2021-11-27 02:08:43,010 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-27 02:10:28,782 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-27 02:10:41,180 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:10:41,986 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:10:45,792 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:10:45,846 [main] INFO logger_File - All items are present in Desktops page
+2021-11-27 02:10:46,976 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-27 02:10:53,396 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:10:54,097 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:10:58,434 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:10:58,663 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2021-11-27 02:11:04,620 [main] INFO logger_File - User selected quantity
+2021-11-27 02:11:05,129 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2021-11-27 02:11:07,697 [main] INFO logger_File - HP LP is successfully added to the cart
+2021-11-27 02:11:08,824 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-27 02:11:16,344 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:11:17,012 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:11:22,267 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:11:23,826 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2021-11-27 02:11:30,802 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2021-11-27 02:11:31,103 [main] INFO logger_File - Canon purchase quantity is 1
+2021-11-27 02:11:31,668 [main] INFO logger_File - User added Canon to cart and clicked on Add to Cart button
+2021-11-27 02:11:34,794 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:11:43,479 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:11:44,150 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:11:49,424 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:11:55,753 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:11:56,286 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:11:57,392 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:11:58,204 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:11:59,194 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:12:06,346 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:12:07,007 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:12:10,329 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:12:13,549 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:12:14,104 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:12:15,176 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:12:15,428 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:12:16,411 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-27 02:12:23,210 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:12:23,865 [main] INFO logger_File - User click on Currency Button
+2021-11-27 02:12:26,062 [main] INFO logger_File - User choose Euro from Dropdown
+2021-11-27 02:12:26,508 [main] INFO logger_File - Currency value has changed to Euro
+2021-11-27 02:12:27,608 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-27 02:12:33,427 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:12:36,008 [main] INFO logger_File - User click on Shopping Cart Link
+2021-11-27 02:12:36,229 [main] INFO logger_File - Shopping Cart empty message is displayed
+2021-11-27 02:12:37,202 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-27 02:12:42,786 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:12:43,430 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:12:46,876 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:12:51,223 [main] INFO logger_File - User clicked on Mac Book item
+2021-11-27 02:12:51,735 [main] INFO logger_File - User clicked on Blue Add To Cart Button for MacBook
+2021-11-27 02:12:53,124 [main] INFO logger_File - Add to Cart Success Message is shown
+2021-11-27 02:12:53,424 [main] INFO logger_File - '1-Items-602' message showed on the black cart!
+2021-11-27 02:12:53,941 [main] INFO logger_File - User clicked on black cart button again
+2021-11-27 02:12:54,443 [main] INFO logger_File - User clicked on Remove from Cart button
+2021-11-27 02:12:54,898 [main] INFO logger_File - Items removed from the black card shown
+2021-11-27 02:12:55,913 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-27 02:13:01,689 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:13:02,344 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:13:05,994 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:13:06,449 [main] INFO logger_File - macbook product comparison button clicked
+2021-11-27 02:13:07,041 [main] INFO logger_File - macbook Air product comparison button clicked
+2021-11-27 02:13:12,489 [main] INFO logger_File - Mac Book added for comparison
+2021-11-27 02:13:15,984 [main] INFO logger_File - product comparison link clicked
+2021-11-27 02:13:16,251 [main] INFO logger_File - product comparison chart is displayed!
+2021-11-27 02:13:17,193 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-27 02:13:22,270 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-27 02:13:50,343 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-27 02:13:55,839 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:13:56,503 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:13:59,502 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:13:59,554 [main] INFO logger_File - All items are present in Desktops page
+2021-11-27 02:14:00,189 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-27 02:14:00,220 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-27 02:14:06,117 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:14:06,769 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:14:12,261 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:14:12,303 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2021-11-27 02:14:16,728 [main] INFO logger_File - User selected quantity
+2021-11-27 02:14:17,251 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2021-11-27 02:14:20,290 [main] INFO logger_File - HP LP is successfully added to the cart
+2021-11-27 02:14:21,066 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-27 02:14:21,085 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-27 02:14:27,131 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:14:27,770 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:14:31,960 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:14:32,001 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2021-11-27 02:14:38,891 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2021-11-27 02:14:39,424 [main] INFO logger_File - Canon purchase quantity is 1
+2021-11-27 02:14:39,959 [main] INFO logger_File - User added Canon to cart and clicked on Add to Cart button
+2021-11-27 02:14:42,798 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2021-11-27 02:14:42,854 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:14:48,992 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:14:49,618 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:14:54,694 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:14:57,545 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:14:58,129 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:14:59,362 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:14:59,798 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:15:01,541 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-27 02:15:01,551 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:15:06,528 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:15:07,174 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:15:09,990 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:15:12,507 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:15:13,079 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:15:14,273 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:15:14,749 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:15:15,390 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-27 02:15:15,411 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-27 02:15:19,710 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:15:20,370 [main] INFO logger_File - User click on Currency Button
+2021-11-27 02:15:23,172 [main] INFO logger_File - User choose Euro from Dropdown
+2021-11-27 02:15:23,855 [main] INFO logger_File - Currency value has changed to Euro
+2021-11-27 02:15:24,686 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-27 02:15:24,702 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-27 02:15:29,328 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:15:32,144 [main] INFO logger_File - User click on Shopping Cart Link
+2021-11-27 02:15:32,560 [main] INFO logger_File - Shopping Cart empty message is displayed
+2021-11-27 02:15:33,167 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-11-27 02:15:33,194 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-27 02:15:38,590 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:15:39,207 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:15:42,518 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:15:45,637 [main] INFO logger_File - User clicked on Mac Book item
+2021-11-27 02:15:46,164 [main] INFO logger_File - User clicked on Blue Add To Cart Button for MacBook
+2021-11-27 02:15:48,468 [main] INFO logger_File - Add to Cart Success Message is shown
+2021-11-27 02:15:49,021 [main] INFO logger_File - '1-Items-602' message showed on the black cart!
+2021-11-27 02:15:49,501 [main] INFO logger_File - User clicked on black cart button again
+2021-11-27 02:15:50,063 [main] INFO logger_File - User clicked on Remove from Cart button
+2021-11-27 02:15:50,901 [main] INFO logger_File - Items removed from the black card shown
+2021-11-27 02:15:51,587 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-27 02:15:51,603 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-27 02:15:56,772 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:15:57,407 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:16:00,402 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:16:00,905 [main] INFO logger_File - macbook product comparison button clicked
+2021-11-27 02:16:01,609 [main] INFO logger_File - macbook Air product comparison button clicked
+2021-11-27 02:16:07,320 [main] INFO logger_File - Mac Book added for comparison
+2021-11-27 02:16:10,856 [main] INFO logger_File - product comparison link clicked
+2021-11-27 02:16:11,335 [main] INFO logger_File - product comparison chart is displayed!
+2021-11-27 02:16:11,899 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-27 02:16:11,917 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-27 02:16:17,094 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:16:17,744 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:16:22,625 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:16:23,111 [main] INFO logger_File - User clicked on the heart icon to add Sony VAIO to wish list
+2021-11-27 02:16:23,858 [main] INFO logger_File - Wish list error messge is displayed on the page
+2021-11-27 02:16:24,871 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-27 02:16:24,886 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-27 02:16:27,328 [main] INFO logger_File - Scenario  Started
+2021-11-27 02:16:29,950 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-27 02:25:28,986 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-27 02:25:40,846 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:25:41,522 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:25:44,838 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:25:44,890 [main] INFO logger_File - All items are present in Desktops page
+2021-11-27 02:25:45,480 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-27 02:25:45,552 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-11-27 02:25:50,113 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:25:50,756 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:25:53,280 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:25:53,323 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2021-11-27 02:25:56,396 [main] INFO logger_File - User selected quantity
+2021-11-27 02:25:56,915 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2021-11-27 02:25:57,674 [main] INFO logger_File - HP LP is successfully added to the cart
+2021-11-27 02:25:58,569 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2021-11-27 02:25:58,586 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-27 02:26:02,412 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:26:03,056 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:26:05,318 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:26:05,360 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2021-11-27 02:26:08,487 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2021-11-27 02:26:09,023 [main] INFO logger_File - Canon purchase quantity is 1
+2021-11-27 02:26:09,510 [main] INFO logger_File - User added Canon to cart and clicked on Add to Cart button
+2021-11-27 02:26:10,362 [main] INFO logger_File - Success message displayed for Canon purchase
+2021-11-27 02:26:11,248 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-27 02:26:11,266 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:26:14,964 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:26:15,659 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:26:17,906 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:26:20,104 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:26:20,663 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:26:21,866 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:26:22,264 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:26:22,908 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-27 02:26:22,930 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-27 02:26:26,563 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2021-11-27 02:26:27,186 [main] INFO logger_File - User clicked on Desktops tab
+2021-11-27 02:26:28,577 [main] INFO logger_File - User clicked on Show All Desktops
+2021-11-27 02:26:30,221 [main] INFO logger_File - User Clicked on Canon Item
+2021-11-27 02:26:30,793 [main] INFO logger_File - User clicked on write review link
+2021-11-27 02:26:32,119 [main] INFO logger_File - User clicked on review continue button
+2021-11-27 02:26:32,627 [main] INFO logger_File - Review Successfully submitted
+2021-11-27 02:26:34,377 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-27 02:26:34,388 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-11-27 02:26:37,850 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:26:38,496 [main] INFO logger_File - User click on Currency Button
+2021-11-27 02:26:40,863 [main] INFO logger_File - User choose Euro from Dropdown
+2021-11-27 02:26:41,649 [main] INFO logger_File - Currency value has changed to Euro
+2021-11-27 02:26:42,578 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2021-11-27 02:26:42,605 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-11-27 02:26:48,045 [main] INFO logger_File - Actual title is matching with expected Title, so User is on retail website homepage
+2021-11-27 02:26:51,051 [main] INFO logger_File - User click on Shopping Cart Link
+2021-11-27 02:26:51,456 [main] INFO logger_File - Shopping Cart empty message is displayed
+2021-11-27 02:26:52,051 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2021-11-27 02:26:52,076 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-11-27 02:26:56,622 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:26:57,235 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:27:02,255 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:27:09,707 [main] INFO logger_File - User clicked on Mac Book item
+2021-11-27 02:27:10,262 [main] INFO logger_File - User clicked on Blue Add To Cart Button for MacBook
+2021-11-27 02:27:12,187 [main] INFO logger_File - Add to Cart Success Message is shown
+2021-11-27 02:27:12,739 [main] INFO logger_File - '1-Items-602' message showed on the black cart!
+2021-11-27 02:27:13,237 [main] INFO logger_File - User clicked on black cart button again
+2021-11-27 02:27:13,723 [main] INFO logger_File - User clicked on Remove from Cart button
+2021-11-27 02:27:14,455 [main] INFO logger_File - Items removed from the black card shown
+2021-11-27 02:27:15,104 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart PASSED
+2021-11-27 02:27:15,126 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-27 02:27:20,765 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:27:21,416 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:27:27,014 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:27:27,528 [main] INFO logger_File - macbook product comparison button clicked
+2021-11-27 02:27:28,270 [main] INFO logger_File - macbook Air product comparison button clicked
+2021-11-27 02:27:33,745 [main] INFO logger_File - Mac Book added for comparison
+2021-11-27 02:27:38,858 [main] INFO logger_File - product comparison link clicked
+2021-11-27 02:27:39,342 [main] INFO logger_File - product comparison chart is displayed!
+2021-11-27 02:27:39,955 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-27 02:27:39,972 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-27 02:27:44,762 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:27:45,448 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:27:50,861 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:27:51,331 [main] INFO logger_File - User clicked on the heart icon to add Sony VAIO to wish list
+2021-11-27 02:27:52,115 [main] INFO logger_File - Wish list error messge is displayed on the page
+2021-11-27 02:27:52,991 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-27 02:27:53,006 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' Started
+2021-11-27 02:27:58,953 [main] INFO logger_File - actual page title equals expected page title
+2021-11-27 02:27:59,693 [main] INFO logger_File - User clicked on laptop and Notebooks Tab
+2021-11-27 02:28:07,302 [main] INFO logger_File - User clicked on show all laptop and Notebooks link
+2021-11-27 02:28:14,242 [main] INFO logger_File - User clicked on the macBook Pro Item
+2021-11-27 02:28:14,737 [main] INFO logger_File - Mac Book Pro Price is 2000 as expected
+2021-11-27 02:28:15,456 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is '2000' PASSED
+2021-11-27 02:28:15,474 [main] INFO logger_File - Scenario  Started
+2021-11-27 02:28:47,892 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-27 02:28:48,625 [main] INFO logger_File - user clicked on My Account1
+2021-11-27 02:28:50,075 [main] INFO logger_File - user clicked on Login option
+2021-11-27 02:28:53,615 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-27 02:28:55,085 [main] INFO logger_File - user clicked on the login button
+2021-11-27 02:28:55,121 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-27 02:28:55,693 [main] INFO logger_File - Scenario  PASSED
+2021-11-27 02:28:55,720 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-27 02:28:58,710 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-27 02:28:59,357 [main] INFO logger_File - user clicked on My Account
+2021-11-27 02:29:00,805 [main] INFO logger_File - user clicked on Login option
+2021-11-27 02:29:01,323 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-27 02:29:03,479 [main] INFO logger_File - user clicked on the login button
+2021-11-27 02:29:03,518 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-27 02:29:05,326 [main] INFO logger_File - user clicked on the login button
+2021-11-27 02:29:06,039 [main] INFO logger_File - User entered info to register for affiliate user
+2021-11-27 02:29:06,445 [main] INFO logger_File - User clicked on About Us Button
+2021-11-27 02:29:08,751 [main] INFO logger_File - User clicked on continue button
+2021-11-27 02:29:09,199 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-27 02:29:09,810 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-27 02:29:09,825 [main] INFO logger_File - Scenario  Started
+2021-11-27 02:29:13,319 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-27 02:29:13,989 [main] INFO logger_File - user clicked on My Account
+2021-11-27 02:29:15,723 [main] INFO logger_File - user clicked on Login option
+2021-11-27 02:29:16,238 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-27 02:29:19,380 [main] INFO logger_File - user clicked on the login button
+2021-11-27 02:29:19,419 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-27 02:29:21,228 [main] INFO logger_File - user clicked on Edit your affiliate information link  
+2021-11-27 02:29:23,684 [main] INFO logger_File - user clicked on Bank Transfer payment method
+2021-11-27 02:29:26,491 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-27 02:29:28,670 [main] INFO logger_File - User clicked on continue button
+2021-11-27 02:29:29,096 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2021-11-27 02:29:29,689 [main] INFO logger_File - Scenario  PASSED
+2021-11-27 02:29:29,700 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-11-27 02:29:34,256 [main] INFO logger_File - Acutal Title is matching with expected title
+2021-11-27 02:29:34,958 [main] INFO logger_File - user clicked on My Account
+2021-11-27 02:29:37,042 [main] INFO logger_File - user clicked on Login option
+2021-11-27 02:29:37,584 [main] INFO logger_File - user entered userName:  and Passwod: 
+2021-11-27 02:29:39,577 [main] INFO logger_File - user clicked on the login button
+2021-11-27 02:29:39,615 [main] INFO logger_File - user is logged into the My Account Dashboard
+2021-11-27 02:29:41,576 [main] INFO logger_File - user clicked on Edit Account information link  
+2021-11-27 02:29:44,399 [main] INFO logger_File - User entered info to edit affiliate user
+2021-11-27 02:29:47,910 [main] INFO logger_File - user clicked on continue button
+2021-11-27 02:29:48,293 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2021-11-27 02:29:48,792 [main] INFO logger_File - Scenario Edit your account Information PASSED
