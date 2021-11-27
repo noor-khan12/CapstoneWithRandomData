@@ -1,8 +1,11 @@
 package pageObjects;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import core.Base;
 import utilities.UtilityClass;
@@ -105,6 +108,12 @@ public class RetailPageObject extends Base {
 	private WebElement successMessageEditAccountInfo;
 
 	public void clickOnMyAccount() {
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		myAccount.click();
 	}
 
@@ -188,11 +197,7 @@ public class RetailPageObject extends Base {
 	public void selectPaymentMethodBankTransfer() {
 		if (paymentMethodRadioButtonBankTransfer.isDisplayed()) {
 			paymentMethodRadioButtonBankTransfer.click();
-			try {
-				Thread.sleep(2000);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
+	
 		}
 	}
 
@@ -214,11 +219,6 @@ public class RetailPageObject extends Base {
 		inputAccountName.sendKeys(accountName);
 
 		inputAccountNumber.click();
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
 		inputAccountNumber.clear();
 		inputAccountNumber.sendKeys(accountNumber);
 	}
@@ -246,11 +246,7 @@ public class RetailPageObject extends Base {
 		inputTelePhone.click();
 		inputTelePhone.clear();
 		inputTelePhone.sendKeys(telePhone);
-		try {
-			Thread.sleep(2000);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
+
 
 	}
 

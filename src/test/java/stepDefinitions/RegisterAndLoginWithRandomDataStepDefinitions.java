@@ -5,6 +5,8 @@ import java.io.IOException;
 import org.json.JSONException;
 import org.json.simple.parser.ParseException;
 import org.junit.Assert;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import core.Base;
 import io.cucumber.java.en.And;
@@ -68,6 +70,8 @@ public class RegisterAndLoginWithRandomDataStepDefinitions extends Base{
 
 		String fakeJSONEmail = registerUserAndCreateRandomDataMethods.readFakeEmailFromJsonFile(); 
 		String fakeJSONPassword = registerUserAndCreateRandomDataMethods.readFakePasswordFromJsonFile(); 
+		// here i can put a code to refresh directory automatically for jenkins
+		
 		retailPageObject.enterEmailAndPassword(fakeJSONEmail, fakeJSONPassword);
 		logger.info("user entered userName: "  + " and Passwod: " );
 		UtilityClass.takeScreenShot();
