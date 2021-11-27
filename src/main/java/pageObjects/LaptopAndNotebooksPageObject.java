@@ -55,7 +55,8 @@ public class LaptopAndNotebooksPageObject extends Base {
 //	//div[@class='alert alert-success alert-dismissible']
 	private WebElement compareSuccessMessageMacBook;
 
-	@FindBy(xpath = "//*[@id=\"top-links\"]/ul/li[1]/a")
+	@FindBy(xpath = "//a[@id='compare-total']")
+	////*[@id=\"top-links\"]/ul/li[1]/a
 	//a[normalize-space()='product comparison']
 	//again jenkins can interact with this element!! 
 	private WebElement productComparisonLink;
@@ -164,8 +165,7 @@ public class LaptopAndNotebooksPageObject extends Base {
 	}
 
 	public boolean isProcutComparisonChartDisplayed() {
-		if (macBookLinkInChart.isDisplayed()
-				&& macBookAirLinkInChart.isDisplayed()) {
+		if (productComparisonChart.isDisplayed()) {
 			return true;
 		} else {
 			return false;
