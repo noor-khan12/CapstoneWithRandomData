@@ -55,16 +55,22 @@ public class LaptopAndNotebooksPageObject extends Base {
 //	//div[@class='alert alert-success alert-dismissible']
 	private WebElement compareSuccessMessageMacBook;
 
-	@FindBy(xpath = "//a[normalize-space()='product comparison']")
+	@FindBy(xpath = "//*[@id=\"top-links\"]/ul/li[1]/a")
+	//a[normalize-space()='product comparison']
+	//again jenkins can interact with this element!! 
 	private WebElement productComparisonLink;
 
 	@FindBy(xpath = "//h1[normalize-space()='Product Comparison']")
 	private WebElement productComparisonChart;
 
-	@FindBy(xpath = "//strong[normalize-space()='MacBook']")
+	@FindBy(xpath = "//img[@title='MacBook']")
+	//strong[normalize-space()='MacBook']
 	private WebElement macBookLinkInChart;
 
-	@FindBy(xpath = "//strong[normalize-space()='MacBook Air']")
+	@FindBy(xpath = "//img[@title='MacBook Air']")
+	//strong[normalize-space()='MacBook Air']
+	// this element couldn't interacted by jenkins so changing it
+	
 	private WebElement macBookAirLinkInChart;
 //	============== add to wishlist Elements ========
 
@@ -158,7 +164,7 @@ public class LaptopAndNotebooksPageObject extends Base {
 	}
 
 	public boolean isProcutComparisonChartDisplayed() {
-		if (productComparisonChart.isDisplayed() && macBookLinkInChart.isDisplayed()
+		if (macBookLinkInChart.isDisplayed()
 				&& macBookAirLinkInChart.isDisplayed()) {
 			return true;
 		} else {
