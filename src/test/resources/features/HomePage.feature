@@ -1,7 +1,7 @@
 @capstoneRandom
 Feature: Register new user on the retail webiste 
 
-@CapstoneProject	
+@validateCurrencyValues	
 Scenario: User verify currency values change 
 	Given User is on Retail website 
 	When User click on currency 
